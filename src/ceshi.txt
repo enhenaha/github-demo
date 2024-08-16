@@ -1,0 +1,196 @@
+{
+    "errcode": 0,
+    "errmsg": null,
+    "data": [
+        {
+            "tagText": {
+                "text": "天河区",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-12_10544/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "番禺区",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-12_10594/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "从化区",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-12_10680/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "越秀区",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-12_10687/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "海珠区",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-12_10542/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "珠江新城／五羊新城商圈",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-8_79896/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "番禺长隆/广州南站",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-8_79909/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "广州塔",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-5_4220/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "白云区",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-12_10683/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        },
+        {
+            "tagText": {
+                "text": "长隆野生动物世界",
+                "color": "#3F4954",
+                "border": null,
+                "tips": null,
+                "background": {
+                    "color": "#F1F3F5",
+                    "image": null,
+                    "gradientColor": null
+                }
+            },
+            "tagDesc": null,
+            "tagCode": 0,
+            "tagLink": "https://m.tujia.com/hotel_guangzhou_5-5_498026/?checkInDate=2022-07-14&checkOutDate=2022-07-15",
+            "aloneLine": false,
+            "childTags": null,
+            "checkBubble": false
+        }
+    ]
+}
