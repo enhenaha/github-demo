@@ -1,5 +1,4 @@
 央视频道,#genre#
-ceshi,https://cdn.ggapk.net/live/tv?id=f04fkIXufTPvXBOTGR2RYCUfTkhG6Z7R8F54HCwqfWszCo6uOeG5j64jZmCKQKkeHiLyQFWAKALP45SdAKqwdLXepw-AJGhk3dRZsEsXcT0ViDnWWgpeyWmGKH70q20JbvBMqNnhHjc1CHnsdirkwTiXTUfwV9EX6sqaGyUhiiewTlEEzkqV&idp=e655ugtzH5jjW3K72BcF2vPHG67m5rhwQ8KYPoyHWoqKyTJ48G9tHhZ2cjc
 CCTV1,http://171.8.138.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
