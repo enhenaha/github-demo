@@ -1,5 +1,29 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV1
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV1
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV2
+http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV2
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV3
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV4
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="#",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="#",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="#" tvg-id="TVBSNews.tw"  ,TVBS News (TVBS新聞台)
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+
+
+#EXTINF:-1 group-title="地方频道" tvg-logo="#",凤凰卫视
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="#",凤凰卫视资讯台
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="#",凤凰卫视资讯台
+http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="#",湖南经视
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE5OC4xODEuNDcuOTAmcWlkPSZzPWVjMDMyMmRjYjdiYmFmZTgzNDA5MzdhNzljMGM0ZTM1JmVzPTE3MjM5MTYwNzQmdXVpZD0yZWRiYzk5ODgzMTZhNTE0NTZhMDk2NzVlYzlmYzQ0Mi1jNmI1MmY1YSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
