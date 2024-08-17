@@ -17,6 +17,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png" tvg-id="TVBSNews.tw"  ,TVBS News (TVBS新聞台)
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="#",中天新闻
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 
 
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",凤凰卫视
