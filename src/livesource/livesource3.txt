@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV1.jpg",CCTV1
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV2.jpg",CCTV2
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV2.jpg",CCTV2
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV3
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV3.jpg",CCTV3
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV4.jpg",CCTV4
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 
 
@@ -15,7 +15,7 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/inde
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="#",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="#" tvg-id="TVBSNews.tw"  ,TVBS News (TVBS新聞台)
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png" tvg-id="TVBSNews.tw"  ,TVBS News (TVBS新聞台)
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 
 
