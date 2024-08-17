@@ -17,7 +17,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-
 #EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="#",CCTV5+
@@ -66,8 +65,10 @@ https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="#",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="#",中天新闻
+#EXTINF:-1 group-title="港澳台" tvg-logo="#",中天新闻1
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="#",中天新闻2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 
 
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",凤凰中文
