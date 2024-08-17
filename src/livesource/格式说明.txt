@@ -1,0 +1,2 @@
+#EXTINF:-1 group-title="分组名" tvg-logo="logo图标",该台的名字
+该台的直播源
