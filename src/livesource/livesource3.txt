@@ -184,7 +184,8 @@ https://gat.zhoujie218.top/4gtv/169
 https://gat.zhoujie218.top/litv/4gtv-4gtv066
 
 
-
+#EXTINF:-1 group-title="地方频道" tvg-logo="#",广东卫视(4k超高清)
+https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=3b1871faec4ed79ee9b0be5f368daa44-83k0ze1Mrm7pAXjfqoGg2ZPlTETQc%2F8Hrf2BlEjtSNLoQOOEYlQY16gwhSisSG29X5W7%2BrMXG%2BLryRUHja1tQWnzAXknTyhi%2BwTgLfPZ7O1fHhEDrC7yxKT6z2oDm2E9J5axmZbdIBS47a4%2BxnEb2EmOrKx6bkNufsPFLeejP5AsihEb3HwYF9wXUJTwliurr3TIgYb1NGqU7WE4AdP0v53SxKsNHGsSIrLUBllOxvQIueNX6HgPONfq1D7xuX8ktK%2BueoaCfALs3KbjPpHq6wdWL8DHI5Z3ofo0Zl73OfoLJVDVGneefKZeefg96tpyiCq3Ey3NOSNAEDu46C8nUE2lcqNfLwVkToHsdk2l0QCzlmNs1ee6dbvfhupwIog7
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",港台电视33
 http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",港台电视34
