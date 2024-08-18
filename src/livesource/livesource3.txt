@@ -55,6 +55,40 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖洋戲劇台
+https://gat.zhoujie218.top/litv/4gtv-4gtv045
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖洋卡通
+https://gat.zhoujie218.top/litv/4gtv-4gtv057
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",龙华偶像台
+https://gat.zhoujie218.top/litv/litv-longturn12
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",龙华卡通台
+https://gat.zhoujie218.top/litv/litv-longturn01
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",龙华戏剧台
+https://gat.zhoujie218.top/litv/litv-longturn18
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",龙华日韩台
+https://gat.zhoujie218.top/litv/litv-longturn11
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",龙华电影台
+https://gat.zhoujie218.top/litv/litv-longturn03
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天育乐台
+https://gat.zhoujie218.top/litv/4gtv-4gtv062
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天资讯台
+https://gat.zhoujie218.top/litv/4gtv-4gtv065
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天电影台
+https://gat.zhoujie218.top/litv/4gtv-4gtv061
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天欢乐台
+https://gat.zhoujie218.top/litv/4gtv-4gtv054
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天综合台
+https://gat.zhoujie218.top/litv/4gtv-4gtv046
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天国际台
+https://gat.zhoujie218.top/litv/4gtv-4gtv063
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天戏剧台
+https://gat.zhoujie218.top/litv/4gtv-4gtv058
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天日本台
+https://gat.zhoujie218.top/litv/4gtv-4gtv047
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天映画台
+https://gat.zhoujie218.top/litv/4gtv-4gtv055
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天卡通台
+https://gat.zhoujie218.top/litv/4gtv-4gtv044
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视台
 https://gat.zhoujie218.top/litv/4gtv-4gtv041
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视新闻
