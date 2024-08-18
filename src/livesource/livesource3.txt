@@ -103,3 +103,7 @@ http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE5OC4xODEuNDcuOTAmcWlkPSZzPWVj
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="#",梅州1台
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8?sign=248c3b9e3bb0057a4c358b3657bd06d1&t=663b3512
