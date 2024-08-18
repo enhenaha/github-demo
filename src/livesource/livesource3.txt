@@ -35,39 +35,39 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",精品纪录
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%B2%BE%E5%93%81%E8%AE%B0%E5%BD%95.png",精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",健康有约
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%81%A5%E5%BA%B7%E6%9C%89%E7%BA%A6.png",健康有约
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",精品体育
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%B2%BE%E5%93%81%E4%BD%93%E8%82%B2.png",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",家庭剧场
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",动作电影
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",古装剧场
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",惊悚悬疑
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",金牌综艺
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png",金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",精品大剧
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png",精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",中国功夫
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB.png",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",农业致富
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%86%9C%E4%B8%9A%E8%87%B4%E5%AF%8C.png",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",潮妈辣婆
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png",潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",超级综艺
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",超级电视剧
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",超级电影
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",炫舞未来
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png",炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="综合电视台" tvg-logo="#",东北热剧
+#EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 
@@ -133,7 +133,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.jpg",凤凰香港台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="#",环球新闻
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E5%8F%B0.jpg",环球新闻
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
