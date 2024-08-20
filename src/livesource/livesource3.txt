@@ -58,15 +58,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv052
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台1
 https://gat.zhoujie218.top/litv/litv-ftv13
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台3
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台4
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台5
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
