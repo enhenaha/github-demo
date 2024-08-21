@@ -91,6 +91,14 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv109
 https://gat.zhoujie218.top/litv/4gtv-4gtv074
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",三立新聞
 https://gat.zhoujie218.top/4gtv/229
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视台
+https://gat.zhoujie218.top/litv/4gtv-4gtv041
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",中视台
+https://gat.zhoujie218.top/litv/4gtv-4gtv040
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",民视台
+https://gat.zhoujie218.top/litv/4gtv-4gtv155
+#EXTINF:-1 group-title="台湾频道" tvg-logo="#",台视台
+https://gat.zhoujie218.top/litv/4gtv-4gtv066
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",寰宇財經台
@@ -129,16 +137,10 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv047
 https://gat.zhoujie218.top/litv/4gtv-4gtv055
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",靖天卡通台
 https://gat.zhoujie218.top/litv/4gtv-4gtv044
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视台
-https://gat.zhoujie218.top/litv/4gtv-4gtv041
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",中视台
-https://gat.zhoujie218.top/litv/4gtv-4gtv040
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",中视经典台
 https://gat.zhoujie218.top/litv/4gtv-4gtv080
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",中视菁采台
 https://gat.zhoujie218.top/litv/4gtv-4gtv064
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",民视台
-https://gat.zhoujie218.top/litv/4gtv-4gtv155
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",民视第一台
 https://gat.zhoujie218.top/litv/4gtv-4gtv003
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",民视台湾台
@@ -163,8 +165,7 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv034
 https://gat.zhoujie218.top/litv/4gtv-4gtv039
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",三立综合台
 https://gat.zhoujie218.top/4gtv/169
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",台视台
-https://gat.zhoujie218.top/litv/4gtv-4gtv066
+
 
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",翡翠台
