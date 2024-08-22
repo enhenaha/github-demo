@@ -181,7 +181,7 @@ http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
 #EXTINF:-1 group-title="临时直播" tvg-logo="#",中天新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724340044/ei/7ALHZrsVkJu9wA_L-YLQCg/ip/2400%3Abea0%3A175c%3A40fe%3A40f%3Ac5d2%3Ab0cd%3Aaab9/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9mnYNvCDwRXSAbrnwhuv_EbQVCdzirEWYShmJSRympwZ07SKkHgpfNOIgXiRNzM0pMTl5WGc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOd9bA3LworZ0jvwqUfHW_6PuSG9rGALGbqW_hFCU6N9AiBfpkrmLKVKeaEzVjaq4sJxf7-jl_ISEmgknoBanO6qIw%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="#",美国之音中文网
+#EXTINF:-1 group-title="临时直播" tvg-logo="#",美国之音中文网
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724354226/ei/UjrHZq6HBcmx2roP87uGqA4/ip/2400%3Abea0%3A16eb%3A74c0%3Ae77b%3Afdb8%3A7be0%3A8c00/id/D8iu5Bpkcc4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9tvQRTcKqBkH3oAfzUEMPZeJuiCTbhXg0ndVKaNIoug78lppGE7engy3MCczNv1A7EcVS7dU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQI7eAWk9JKgzq67ev5P18NtmEJJJgjdaayfXskilII0CIQD3dweHk3x-B6OrkmXNaIQqbGfR2vCiALc758lXt-cwsQ%3D%3D/file/index.m3u8
 
 
