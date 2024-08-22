@@ -182,6 +182,12 @@ https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
 
+#EXTINF:-1 group-title="YouTube直播" tvg-logo="#",寰宇新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724313115/ei/u5nGZvzxF76u7OsPlOHFuQQ/ip/38.207.142.19/id/6IquAgfvYmc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qCA4vyHaXtxDIZ5PyPzx05RGbIQFbDPuLi0OOc0tIUCCFZWDfFpbhHUn5CilaQ09eAKsHT3/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCePVj8VeNBEASOkPHNOPCC725PrCn0wRvSSKYDcP7lQCIQDnh_NSWbbRo8XhurBM8T7NGny7Z9123dNoIOdzQTrdRQ%3D%3D/file/index.m3u
+#EXTINF:-1 group-title="YouTube直播" tvg-logo="#",美国之音中文网
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724318598/ei/Jq_GZrPPOKHBs8IPiPHToAU/ip/2400%3Abea0%3A1c7c%3A9e6c%3Ac1b5%3A1b31%3A8aa6%3Ad833/id/fg33INIIEKo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9k3c52nx5FH4P1ySJX7eOFvFQ9j2Fs3sxBHpOthJ8gjKSYV3izl-f-lHmMr7OyeLb6Yt0_pI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIxhR9Z7nvF_WzkHHcuKeiFwt3vqIKPdIQ1lDBs4naw7AiEAwtgklxN-uNiYam3zE6ILfcXTDLOJtmzL0ktlbzp7j3M%3D/file/index.m3u8
+
+
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",客家生活
 https://gdcucc.v1.mk/gdcucc/meizhou2.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="#",梅州综合
