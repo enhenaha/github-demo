@@ -177,6 +177,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1b
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="#",凤凰中文
+http://115.210.75.231:58888/udp/233.50.200.42:5140
 
 
 #EXTINF:-1 group-title="临时直播" tvg-logo="#",寰宇新闻
@@ -245,3 +247,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 #EXTINF:-1 group-title="世界各地" tvg-logo="#",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="#",德国之声
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
