@@ -48,9 +48,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",非凡新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv010
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",东森新闻
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv152
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",东森财经新闻
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",东森财经新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv153
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv052
@@ -80,7 +80,7 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv009
 https://gat.zhoujie218.top/litv/4gtv-4gtv109
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.jpg",中视新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv074
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",三立新聞
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新聞
 https://gat.zhoujie218.top/4gtv/229
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视台
 https://gat.zhoujie218.top/litv/4gtv-4gtv041
@@ -161,7 +161,7 @@ https://gat.zhoujie218.top/4gtv/169
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
 https://test.zapi.us.kg/?id=tvb-news
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",无线新闻(备用2)
+#EXTINF:-1 group-title="香港频道" tvg-logo="#",无线新闻(备用)
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",港台电视33
 http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -177,23 +177,23 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1b
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",凤凰中文
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
 http://115.210.75.231:58888/udp/233.50.200.42:5140
 
 
-#EXTINF:-1 group-title="临时直播" tvg-logo="#",寰宇新闻
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png",寰宇新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724397872/ei/0OTHZpa-IKOk7OsPrIOC4AE/ip/2400%3Abea0%3A186c%3Acd0a%3A8af2%3A2fe3%3Acb8d%3A783/id/6IquAgfvYmc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9u0W2e9wMrPep15zDDsbElC-WhEiGe_3R3gG7X8cSasIZ23sFh0W8LnRsyii6RUpBMNn8wG-/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcAsuSDpAzOpuqf4pweCOQObRAY--n26k9_6pLOQXsXoCIQCu0VkKi-nsGe_i6Cd5JHX3tFrKgoVInsmEiAbtzUahjQ%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="临时直播" tvg-logo="#",中天新闻
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.jpg",中天新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724397964/ei/LOXHZsWdJMuR0-kPxqWi2Qw/ip/2400%3Abea0%3A1def%3Aaf20%3Ad3cf%3Aedcd%3Ad84e%3Ae93c/id/9cJJhoaadXM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9g50HUNIqYYKLoRswccPhm4OmXOW9vSG-1mi9jHps0FwJm51s6OKu0N51Zzai-rYfSuWFH19/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHouq-3ZFUvMS2yUxIou8-dFxc2Nbe3eUF3g2sU1BR2MCIQDrW86dir0FTZditwSBv-O8HUrAmoycYNb6lxCLOxRDfw%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="临时直播" tvg-logo="#",美国之音中文网
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.jpg",美国之音中文网
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724354226/ei/UjrHZq6HBcmx2roP87uGqA4/ip/2400%3Abea0%3A16eb%3A74c0%3Ae77b%3Afdb8%3A7be0%3A8c00/id/D8iu5Bpkcc4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9tvQRTcKqBkH3oAfzUEMPZeJuiCTbhXg0ndVKaNIoug78lppGE7engy3MCczNv1A7EcVS7dU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQI7eAWk9JKgzq67ev5P18NtmEJJJgjdaayfXskilII0CIQD3dweHk3x-B6OrkmXNaIQqbGfR2vCiALc758lXt-cwsQ%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="临时直播" tvg-logo="#",三立新闻
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724398094/ei/ruXHZvXOI-mMs8IP2NXqoQ8/ip/2400%3Abea0%3A1def%3Aaf20%3Ad3cf%3Aedcd%3Ad84e%3Ae93c/id/-Z-NrvvTfIo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9oUF-w-_UZ0rE8Nc9xQkSDN29Ym8P239ZxT8ZPvADUsSFJqWXhUe4KKV5WCdMYEug05mbfnO/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANgyXKtO1sOe247_j_UJPChGggPZ1rf_GLm6XSfn9yyoAiBfLBxURtSJfPTcSmfoxd22xQK_0sqp4bU03I-ODkJv6g%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="#",TVBS News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724398161/ei/8eXHZp7cHsqYvcAP7Nbv6QY/ip/2400%3Abea0%3A1def%3Aaf20%3Ad3cf%3Aedcd%3Ad84e%3Ae93c/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9htxnJGvJV7K_uDetfdIH_JjQIrdfySPZbUO2mVsGjSR_f43ltXJGCdUCRj6J-zpHwCYvpRx/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEIQs--yKoDm8b9SGm_jRiJRfDtTgJoq2WataExfLziECIBZOUwb5pHw5uATfYinsr3tbeT6JEHeqI1psKv3zArW4/file/index.m3u8
-#EXTINF:-1 group-title="临时直播" tvg-logo="#",东森新闻
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724398208/ei/IObHZrHrA9eH5t0PocaOqQo/ip/2400%3Abea0%3A1def%3Aaf20%3Ad3cf%3Aedcd%3Ad84e%3Ae93c/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qEJ2U9GU9IrGM-DdaODt_VpQJn_OnxBeoIr1Qhavffugwp5sqsUenkIzxm30Ib_KrXvd5O8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKTq8u5IDJC0SWWd9evtlYWph0P1DhUvmHViT_-0tsDQAiEA-A1hKeDOkbTtc2udzHqPw11RhMj1sQUrZVQBdLi9ZuA%3D/file/index.m3u8
-#EXTINF:-1 group-title="临时直播" tvg-logo="#",东森财经新闻
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",东森财经新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724398262/ei/VubHZrutHY2B2roPh6iO8Ao/ip/2400%3Abea0%3A1def%3Aaf20%3Ad3cf%3Aedcd%3Ad84e%3Ae93c/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9nIOhB6JneSPM5cMtyZvCheui_q3y49bOa870ofCra__uWntuEA4UBm99Ogyx_05_pqd-5e5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZT1oZZ7XW1rwdGNS0nPEPXmhDfdkRBhyDV7P1FW7LgECIBvLxQaOuA0pUJgiQeuOjA03WyUtZaf3-mM2CdBND76G/file/index.m3u8
 
 
