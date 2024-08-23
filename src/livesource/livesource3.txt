@@ -49,19 +49,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",非凡新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv010
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://gat.zhoujie218.top/litv/4gtv-4gtv152
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",东森财经新闻
-https://gat.zhoujie218.top/litv/4gtv-4gtv153
+https://test.zapi.us.kg/?id=ebc-finance
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",华视新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv052
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png",民视新闻台
-https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",TVBS 新聞台
 https://gat.zhoujie218.top/litv/4gtv-4gtv072
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVBS News
@@ -194,9 +190,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724445237/ei/1
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/tvbs%20news.jpg",TVBS News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724423309/ei/LUjIZrzgHsPZs8IPsL-qiA4/ip/2400%3Abea0%3A1e56%3A2220%3Ad6a9%3Afbe1%3A5929%3A9a96/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qt78dYjPgSfuxGpb65J_FbIaWiny8TXZsYtOYvnAHprsPkz4yuw_MPhdjZFmZLlZsZhso3Z/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRzUVrMisWuq8bACQwEV75kSnK-kUo6wBIoAvWX6c0r0CIEbY5233WLx_571HxNuRjMOyOiR2JcAJzUxFLawIu814/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724423380/ei/dEjIZqfvLPuevcAPnpmUuQo/ip/2400%3Abea0%3A1e56%3A2220%3Ad6a9%3Afbe1%3A5929%3A9a96/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9r1BJnVREaUDFVHCg8TI2a-uZsb0dRsMX9qr--H_16poYn0SHxjy93YbLt-eAjlHB6IoK2I2/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL96YjZZFTJKQ9X_EX6tiGvh-kwNddS_Qq3ZlNyq7CyRAiBlzVDp77qr989mUwp_1cZReggsq_dKiyhh3d-BcksXYg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724446245/ei/xaHIZv2QB9KQs8IPxPXB2Aw/ip/2400%3Abea0%3A15be%3A7168%3A8e9f%3Adb7e%3A33d7%3Ae162/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9tZxX2J9jxPJULZ0vd-KWGRLx9q9FYYsEEWVdXXQgY_EGULWfxigIM9QoJNrXgJUVJup0WOB/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcBY5dDZl6DKdNKh5ivMi4_tycXhxsLy5lnO5wXAHymoCIGROS_CdF7vNWu4yhRkK0Ru6gU8c4sKA08S_XMus-hse/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",东森财经新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724423444/ei/tEjIZoT5NPPs2roP1cnrkAc/ip/2400%3Abea0%3A1e56%3A2220%3Ad6a9%3Afbe1%3A5929%3A9a96/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9l8-HgJU7uiXqPy4V0ZVZHNd4J5KJWxh7fyOK0QTZ4d-GrdffpHYTg3VWYD9gnCwEUESJTKI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKC3jCJj2xHyvVMxMM8Ek-E1UN2TyqXVLIt-PYiizWDUAiEAyISGxFlu3loO-M9jRs-fl7tW-RUYEPct9c1UEQQ2WhE%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724446306/ei/AqLIZoqkMNbYs8IPk8uV0Q0/ip/2400%3Abea0%3A15be%3A7168%3A8e9f%3Adb7e%3A33d7%3Ae162/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9lzJcqfkLis_c2FWOjX8GaYWX8YNRT0VO9YE6w2MoCiCCKdf7ng04Y8h55ptXeS_7R3sb1TD/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALqIv2Hd4byNQARLFt2do3h4s1iZyuF2_GYkgK7e_mb_AiAYTgr6XtmunwAPaT9WzczI2Oi8bpUBji0eRei8d30dFQ%3D%3D/file/index.m3u8
 
 
 
@@ -247,5 +243,3 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 #EXTINF:-1 group-title="世界各地" tvg-logo="#",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="#",德国之声
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
