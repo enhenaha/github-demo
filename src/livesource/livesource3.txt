@@ -199,13 +199,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724440940/ei/D
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E5%8F%B0.jpg",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="#",新闻综合
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.jpg",新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",美国中文电视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%96%87.jpg" group-title="地方频道",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="地方频道",浙江卫视
 https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1724501336-4afb34b4f0a69cb0dc4e69ee3331874b-0-1571fd3fe895a4fe88c6e4ec7553cfac
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",东方卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="地方频道",东方卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方频道",江苏卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
@@ -231,7 +231,7 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/guangdongHD/__op/default/__f/
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="地方频道",湖北卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hubeiSD/__op/default/__f/3/v1M/index.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",东南卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="地方频道",东南卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="地方频道",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
@@ -275,5 +275,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 
-#EXTINF:-1 group-title="世界各地" tvg-logo="#",日本全天新闻
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A4%A9%E6%96%B0%E9%97%BB.png",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
