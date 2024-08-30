@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1725022144&token=e7e08338fa8e9068d255273cea497603
+https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1725034791&token=5068e9bc334c1bddeeaa6e73cc451dda
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725042251/ei/67nRZvu4HJKx0-kP37yo-A0/ip/2400%3Abea0%3A137b%3A9abe%3A6941%3A3ac%3Ade73%3A711e/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9vnWf_o3bmkUuumoBKiPSc8m-E2jhXXmacb5PUzhRiP8CZ-M4B267VYrMSPYD21cW_vfH2sw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIge6JDMS9A_7bLx2hVqSroJBbNUDklB4xbZELOpgYqgD4CIQDXr7YJnbDTDUCiCXLyk4B1x3_achAmiSUB3noN0W-o0A%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png",寰宇新闻
@@ -30,6 +30,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724958509/ei/z
 https://test.zapi.us.kg/?id=tvb-news
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻(备用)
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻(备用2)
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1725029182~exp=1725115582~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/*~hmac=9cf7c6ce219dff9d505a22b4685e2b3356e21b88ff69c3497d85bf8732e87977&p=3324&mode=admarker,ticks
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
