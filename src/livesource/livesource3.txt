@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻台
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725021260&token=c22fcb9bd7144566d2a1c269d1d226eb
-#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
-https://ushls.ballbar.net/phoenixtv_hd/playlist-15.m3u8a?t=1725021742&token=cb77977bf99eea3cc965556936f1758b
+
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1725022144&token=e7e08338fa8e9068d255273cea497603
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
@@ -91,8 +88,6 @@ https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 https://gat.zhoujie218.top/litv/4gtv-4gtv041
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E8%A7%86.png",中视台
 https://gat.zhoujie218.top/litv/4gtv-4gtv040
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86.png",民视台
-https://gat.zhoujie218.top/litv/4gtv-4gtv155
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86.png",台视台
 https://gat.zhoujie218.top/litv/4gtv-4gtv066
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/TVBS.png",TVBS
