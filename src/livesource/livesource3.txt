@@ -22,8 +22,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725107572/ei/F
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725107614/ei/PrnSZsTQBNSbvcAPlsyz2QI/ip/2400%3Abea0%3A1278%3A31c4%3A7df9%3Ac370%3Af2b1%3Acabd/id/GsMW6LSbjQ8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9iAz1R4rTPTud3jkJ49MgXufNojwMBAnLXiNL01XwOLMVdRjjHiZanjv2_JkD5dwAFxcJqku/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIl1srG0SYRBHzfTZbJd5LC7NAS1UMn3YcLOuTSQJ-ubAiEAy0ztbBN8pCUfvlNxhIm-DUCvhb2VEXAw5KwonkXw67c%3D/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.jpg",美国之音中文网
-https://voa-video-hls-ns.akamaized.net/pangeavideo/2024/08/5/58/58498849-a79b-4ebb-9e08-fd37feb83db9_master.m3u8
 
 
 
