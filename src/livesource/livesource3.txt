@@ -326,3 +326,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 #EXTINF:-1 group-title="综合电视台" tvg-logo="#",哆啦A梦台
 https://cdi.ofiii.com/ocean/video/playlist/NCrxrrvS5-k/litv-kids-vod71522-000444M001-video_eng=765198-audio_eng=192646.m3u8
+#EXTINF:-1 group-title="综合电视台" tvg-logo="#",哆啦A梦台2
+https://cdi.ofiii.com/ocean/video/playlist/Sf0bd1qO7JU/litv-vod39802-000000M001-video_eng=1445000-audio_eng=128392.m3u8
