@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1725159952&token=99654b6d8783288b65c47606c496339f
+https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1725164001&token=b2e0b13f192990a1c4a65ea06d2c30de
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%98%8E%E7%8F%A0.png",明珠台
-https://ushls.ballbar.net/pearl_twn/playlist-15.m3u8a?t=1725159982&token=72da14138f99b2b5d505c1359c56d866
+https://ushls.ballbar.net/pearl_twn/playlist-15.m3u8a?t=1725164015&token=77208db2f3a971e5465a9ed9d428a3e2
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725159890&token=0282feec01765dea485c1a84d6f7970f
+https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725164027&token=6d7fbfc7c49f9d7bd71ab54860fd8944
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725179510/ei/FdLTZpmxPOnJs8IP5rit8AE/ip/38.207.142.19/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9vcuecVo-S_xCLxGe4l5FqBYYdurwmbxzsH0cVN-VZFfRk2gT46IVemfg-LLMj1hfGZ6Ek_9/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd2jN86jWfA7C_kUbQTurYGZgNdPEueIwh4smpeaJBcACIQDodczCpFsWdBnDYgnRy0FIbR56yP1ak__jIhwbAdsv_w%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",寰宇新闻
