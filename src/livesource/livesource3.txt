@@ -19,7 +19,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725265533/ei/H
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725265579/ei/SyLVZsL9GbKEs8IPzu-OgAo/ip/38.207.142.19/id/lQ2M1-GXBmk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9rT74Kw8B52U0U0o3IxXwBJVfrF4vD73JDC3LN7sei9jVMpZVz_VheP0-9H3QHYCI7tsOnjg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbXJnEthrZUtGTID7K5wZ5dbM5rZjP3wB1s5wSbhLc8kCIQCX8gyEU0hfOiwnXH0qQj5fjAibMyrwYl4HqRDAhTenwA%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.jpg",台视新闻台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725266169/ei/mSTVZrvXDoyp7OsP_O7Q4AM/ip/2400%3Abea0%3A1627%3Aee50%3Ab288%3A325c%3A72a7%3A1541/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9o4A87SYrR1TAfn19eEoVYwqrFU_i95aT2OekknUY4Dg7gwF8lA5OMCO09pAIs1ld5e3Rv1T/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHL3YdUV9Y-w7gg5RAI8dmDmfuXx36bPdVjdLJg4EguMCIQCB6vicsvvCbXn_pAtrm_AA5SrK-FfDIHUKZmN8YIycaA%3D%3D/file/index.m3u8
-
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 
@@ -29,8 +28,6 @@ http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
-http://220.191.106.108:55555/udp/233.50.200.42:5140
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86.png",凤凰卫视
