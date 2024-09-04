@@ -50,6 +50,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 https://gat.zhoujie218.top/litv/4gtv-4gtv072
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/tvbs-news.jpg",TVBS News
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE.png",寰宇新聞台湾台
 https://gat.zhoujie218.top/litv/litv-longturn15
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%95%9C%E6%96%B0%E9%97%BB.png",镜电视新闻台
@@ -60,10 +62,8 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv009
 https://gat.zhoujie218.top/litv/4gtv-4gtv074
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv152/4gtv-live-mid/4gtv-4gtv152-avc1_2000000=3-mp4a_126000_zho=2.m3u8?token=TNEGiQqH6q-SUzfMbiRQOg&expires=1725426685&token1=V9qZVJuGifrL9N_NDEzjSA&expires1=1725426685
-
-
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="#",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8D%8E%E8%A7%86.jpg",华视台
