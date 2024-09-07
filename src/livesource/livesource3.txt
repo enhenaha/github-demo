@@ -62,6 +62,10 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv074
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="#",东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="#",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="#",台视新闻
+https://www.123iptv.tv/tv_player/clappr.php?url=https://live.bookmarkmanager.net/live/tv?id=ce7dNIEkCbL7XKTii8-rv9JvPyCtjONpY2TUIcDQIhbflfGhYqRIY1PgIyXzgJNHut4kngic8ZOOUQewMo0Kri422v5ejAo1cJa97gb6GKxDOJ-BPsFSb9jysNZNOyZUL6GQWly0iSl37zy_zUPz4Tath1cOKbC3UtbYEl6nYZ1tnSPp0vdResoCECR5EqHz006rcK0IiAZ6RY6S21QYlVyr18bH34-uEFcMwxmXqo3FSO9Zdnf9O07_9zX-5Cm7CLTiAAtn1bCNLxE3R3hPgNuToQ3biPPBI_dK3fzsdOTA8mnaQAaoOKKdmEth7ekUjjDtHVrE6g-rlDNmuBw1MvRk5yyQM300PcMU8hZkIZXWyJoCYBhBsuKNpSOXFethsn6VgkAF8Z9idlrzHL-CUXHja_2GrmWR_Qnx8pFr4pdpAy3by1PMNDVd6WpP6AZ7bwbNtBSgJBj4FiiicSJ6HHRRb1kkNxJ2sSLIp0R3IXYwr2k7C3SPJgw7G3RP0ChJGyn7KPF647pXK2LkNu7Zz312QvJxh3IsTKi-kmKXmeJGTiNNexxpVN2-4z68UqCp3iHGKUZTw9roTOjaD_NTTHOsFoAW6dhi3S4hFUB8zReCgS1VdIk8cqxVZ7kyyw&idp=3e6fVj2VK0d0306_iRjnQcFI3ojezrclN02cErw75Gq0YveL
 
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8D%8E%E8%A7%86.jpg",华视台
