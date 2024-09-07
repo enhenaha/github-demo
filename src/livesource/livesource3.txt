@@ -306,3 +306,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
+#EXTINF:-1 group-title="平台直播" tvg-logo="#",陈翔六点半
+https://al.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv?wsSecret=e4d407184e68162b2f7833ab4f09b66f&wsTime=66dc76f8&ctype=tars_mp&fs=bgct&t=102&uid=1545176260609&uuid=5723384715001&seqid=3270899645324&ver=1&sv=2401310321&ratio=
+
