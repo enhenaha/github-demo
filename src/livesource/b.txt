@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
+https://raw.githubusercontent.com/enhenaha/github-demo/main/src/livesource/a.txt
