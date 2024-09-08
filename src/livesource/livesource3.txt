@@ -19,11 +19,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725780051/ei/8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725780079/ei/D_zcZpbBDPjt2roPw5_1qAk/ip/2400%3Abea0%3A1f5d%3Af788%3Adcef%3A438b%3A4ac8%3A906e/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9gFol8Y83I-faFc0N9ssBIAamFxEhCjDvnKIRmhtfD8CYB1Blod-0rZVYv6Ih1Dz7E6qfvdP/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgH_HXtCrpRTNt9DiWnNvO3t6Pny7x3h5nX2TpCiC8GAACIBwBxMG3xoAJdWy2DbE3ANMWIZaEdJ_isk6cNmsmcnR3/file/index.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 group-title="临时频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
+https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725767604&token=f54aab16e56e291b12c2bead1a7fb894
 
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725766498&token=a40b2884e9f82e155b76c52ad356b448
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻(备用)
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
