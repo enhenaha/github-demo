@@ -20,7 +20,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725797561/ei/W
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725780045&token=8e536b7064165a2bc2d3c2868fff9d09
+https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725784195&token=d5da6da53e4466b98f98f483ced8cb81
 
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
@@ -219,33 +219,6 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/ind
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="地方频道",浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel007/360p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="地方频道",东方卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方频道",江苏卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方频道",安徽卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="地方频道",重庆卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="地方频道",北京卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="地方频道",天津卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="地方频道",辽宁卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="地方频道",四川卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="地方频道",深圳卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="地方频道",东南卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="地方频道",河北卫视
-http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="地方频道",吉林卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳门卫视
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E5%8F%B0.jpg",环球电视台
@@ -258,6 +231,111 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="地方频道",梅州综合
 http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8?sign=248c3b9e3bb0057a4c358b3657bd06d1&t=663b3512
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",北京卫视HD
+http://124.205.11.205:91/live/BJWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",东方卫视HD
+http://124.205.11.205:91/live/DFWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",天津卫视HD
+http://124.205.11.205:91/live/TJWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",重庆卫视HD
+http://124.205.11.205:91/live/CQWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",黑龙江卫视HD
+http://124.205.11.205:91/live/HLJWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",吉林卫视HD
+http://124.205.11.205:91/live/JLWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",辽宁卫视HD
+http://124.205.11.205:91/live/LNWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",河北卫视HD
+http://124.205.11.205:91/live/HeBWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",山东卫视HD
+http://124.205.11.205:91/live/SDWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",安徽卫视HD
+http://124.205.11.205:91/live/AHWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",河南卫视HD
+http://124.205.11.205:91/live/HuNWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",湖北卫视HD
+http://124.205.11.205:91/live/HuBWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",湖南卫视HD
+http://124.205.11.205:91/live/HuNWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",江西卫视HD
+http://124.205.11.205:91/live/JXWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",江苏卫视HD
+http://124.205.11.205:91/live/JSWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",浙江卫视HD
+http://124.205.11.205:91/live/ZJWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",东南卫视HD
+http://124.205.11.205:91/live/DNWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",广东卫视HD
+http://124.205.11.205:91/live/GDWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",深圳卫视HD
+http://124.205.11.205:91/live/SZWShd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",贵州卫视HD
+http://124.205.11.205:91/live/GZWShd-8M/live.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="地方频道",广西卫视
+http://124.205.11.205:91/live/GXWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="地方频道",云南卫视
+http://124.205.11.205:91/live/YNWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="地方频道",四川卫视
+http://124.205.11.205:91/live/SCWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="地方频道",新疆卫视
+http://124.205.11.205:91/live/XJWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="地方频道",兵团卫视
+http://124.205.11.205:91/live/BTWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="地方频道",西藏卫视
+http://124.205.11.205:91/live/XZWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="地方频道",海南卫视
+http://124.205.11.205:91/live/LYWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="地方频道",三沙卫视
+http://124.205.11.205:91/live/SSWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方频道",农林卫视
+http://124.205.11.205:91/live/NLWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="地方频道",大湾区卫视
+http://124.205.11.205:91/live/NFWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方频道",内蒙古卫视
+http://124.205.11.205:91/live/NMGWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="地方频道",厦门卫视
+http://124.205.11.205:91/live/XMWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="地方频道",宁夏卫视
+http://124.205.11.205:91/live/NXWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="地方频道",甘肃卫视
+http://124.205.11.205:91/live/GSWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="地方频道",青海卫视
+http://124.205.11.205:91/live/QHWS-1500k/live.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="地方频道",山西卫视
+http://124.205.11.205:91/live/SXWS1-1500k/live.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="地方频道",陕西卫视
+http://124.205.11.205:91/live/SXWS3-1500k/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",纪实文人HD
+http://124.205.11.205:91/live/JSRWhd-8M/live.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="地方频道",哈哈炫动
+http://124.205.11.205:91/live/XDKT-1500k/live.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
+http://124.205.11.205:91/live/JYKT-1500k/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",金鹰纪实HD
+http://124.205.11.205:91/live/JYJShd-8M/live.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
+http://124.205.11.205:91/live/JJKT-1500k/live.m3u8
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="地方频道",财富天下
+http://124.205.11.205:91/live/CFTX-1500k/live.m3u8
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方频道",北京文艺
+http://124.205.11.205:91/live/BTVWYhd-5M/live.m3u8
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方频道",北京体育休闲
+http://124.205.11.205:91/live/BTVTYhd-8M/live.m3u8
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方频道",北京影视
+http://124.205.11.205:91/live/BTVYShd-5M/live.m3u8
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方频道",北京财经
+http://124.205.11.205:91/live/BTVCJhd-5M/live.m3u8
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方频道",北京生活
+http://124.205.11.205:91/live/BTVSHhd-5M/live.m3u8
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",北京新闻
+http://124.205.11.205:91/live/BTVXWhd-5M/live.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
+http://124.205.11.205:91/live/BTVKJhd-5M/live.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
+http://124.205.11.205:91/live/BTVKJhd-8M/live.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",北京国际
+http://124.205.11.205:91/live/BTVGJ-1500k/live.m3u8
+
 
 
 
