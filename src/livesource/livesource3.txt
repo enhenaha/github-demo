@@ -20,7 +20,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725818112/ei/o
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:-1 group-title="临时直播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-http://live.cooltv.to
+http://live.cooltv.toqwerqwer
 http://124.244.149.194:65531/bysid/83
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",美国之音
