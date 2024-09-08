@@ -22,7 +22,7 @@ https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725762817&token=3421a82568726a4df5ee34dbbdbeec46
+https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1725766498&token=a40b2884e9f82e155b76c52ad356b448
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻(备用)
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
@@ -262,6 +262,8 @@ https://jpts.sinovision.net/livestream.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="地方频道",澳门Macau
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",梅州综合
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8?sign=248c3b9e3bb0057a4c358b3657bd06d1&t=663b3512
 
 
 
@@ -305,7 +307,3 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="综合电视台" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-
-#EXTINF:-1 group-title="平台直播" tvg-logo="#",陈翔六点半
-https://al.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv?wsSecret=e4d407184e68162b2f7833ab4f09b66f&wsTime=66dc76f8&ctype=tars_mp&fs=bgct&t=102&uid=1545176260609&uuid=5723384715001&seqid=3270899645324&ver=1&sv=2401310321&ratio=
-
