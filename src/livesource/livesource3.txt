@@ -389,23 +389,23 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",周星驰
+#EXTINF:-1 group-title="电影轮播",周星驰
 http://159.75.85.63:35455/huya/11342412
 http://zby.xjqxz.top/live12/live.m3u8
 http://159.75.85.63:35455/huya/11336587
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",成龙
+#EXTINF:-1 group-title="电影轮播",成龙
 http://zby.xjqxz.top/cldy/live.m3u8
 http://159.75.85.63:35455/huya/11342386
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",沈腾
+#EXTINF:-1 group-title="电影轮播",沈腾
 http://159.75.85.63:35455/huya/11601968
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",陈翔六点半
+#EXTINF:-1 group-title="电影轮播",陈翔六点半
 http://159.75.85.63:35455/huya/11274154
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",爱情公寓
+#EXTINF:-1 group-title="电影轮播",爱情公寓
 http://159.75.85.63:35455/huya/11336726
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",新三国
+#EXTINF:-1 group-title="电影轮播",新三国
 http://159.75.85.63:35455/huya/11352944
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",狂飙
+#EXTINF:-1 group-title="电影轮播",狂飙
 http://zby.xjqxz.top/live9/live.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="#",甄嬛传
+#EXTINF:-1 group-title="电影轮播",甄嬛传
 http://zby.xjqxz.top/live8/live.m3u8
 http://tv.tvbox6.icu/tv/zhenhuanzhuan.m3u8
