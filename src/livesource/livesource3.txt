@@ -408,8 +408,3 @@ http://zby.xjqxz.top/live9/live.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="#",甄嬛传
 http://zby.xjqxz.top/live8/live.m3u8
 http://tv.tvbox6.icu/tv/zhenhuanzhuan.m3u8
-
-#EXTINF:-1 group-title="美国之音" tvg-logo="#",视频1
-https://voa-video-hls-ns.akamaized.net/pangeavideo/2024/09/a/ab/ab8b2f03-5361-4d78-a182-599dcdb5d58c_1080p.m3u8
-#EXTINF:-1 group-title="美国之音" tvg-logo="#",视频2
-https://voa-video-hls-ns.akamaized.net/pangeavideo/2024/09/0/02/027595f9-b7c2-4b8e-af1e-ef05afb0474d_1080p.m3u8
