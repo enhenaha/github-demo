@@ -69,6 +69,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.jpg",中视新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725914345/ei/iQjfZqq8HsjT1d8P1NaRuAI/ip/2400%3Abea0%3A1b87%3A851a%3Afc2d%3Aa695%3Abae8%3Ac413/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9pHpfdqygl-vHcO7ad7mlMQGKktJFHPwW-Rbl40yT9yugq4Su5t2vOss8yqE-susIZ20z52S/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51277643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWDcy45lVzS_9vonLRWqetbQJ-2RCdIga2hqcstfg_mwCIQDNwDyFJBdA7cF5pd6nx4ZXOnt195NiN9TOSZHLI4pDUw%3D%3D/file/index.m3u8$油管直播
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%95%9C%E6%96%B0%E9%97%BB.png",镜电视新闻台
+https://raw.githubusercontent.com/enhenaha/github-demo/main/src/livesource/ceshi.m3u8
 http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="#",东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
