@@ -13,17 +13,17 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725953390/ei/D
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",凤凰中文
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
 http://122.224.232.218:8888/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",凤凰卫视香港台
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.jpg",凤凰卫视香港台
 http://124.244.149.194:65531/bysid/85
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",翡翠台
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://cdn2.1689.us.kg/live/live1.1.php?id=fct2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 http://124.244.149.194:65530/bysid/1
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",明珠台
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%98%8E%E7%8F%A0.png",明珠台
 http://124.244.149.194:65531/bysid/2
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",TVB Plus
 http://124.244.149.194:65531/bysid/82
@@ -37,7 +37,7 @@ http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlay
 http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B8%AF%E5%8F%B035.png",港台电视35
 http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",香港环球卫视
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E5%8F%B0.jpg",香港环球卫视
 rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E5%8F%B0.jpg",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
