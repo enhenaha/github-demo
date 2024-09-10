@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="临时频道" tvg-logo="#",中国VS沙特
+,http://8.138.7.223/tv/live.m3u8
+#EXTINF:-1 group-title="临时频道" tvg-logo="#",中国VS沙特
+https://play1nm.hnyongshun.cn/live/ballbar_30180.m3u8
+#EXTINF:-1 group-title="临时频道" tvg-logo="#",中国与沙特粤语版
+https://play1nm.hnyongshun.cn/live/ballbar_28680.m3u8
+
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://124.244.149.194:65531/bysid/83
