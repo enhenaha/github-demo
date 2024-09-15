@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1726371523&token=89a4d66a709967946bfc14243eda05c1
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://124.244.149.194:65531/bysid/83
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
@@ -406,8 +405,6 @@ http://zby.xjqxz.top/live9/live.m3u8
 #EXTINF:-1 group-title="电影轮播",甄嬛传
 http://zby.xjqxz.top/live8/live.m3u8
 http://tv.tvbox6.icu/tv/zhenhuanzhuan.m3u8
-#EXTINF:-1 group-title="电影轮播",小品轮播
-http://tc-tct.douyucdn2.cn/dyliveflv1a/10153463r0oBSmAG.m3u8
 #EXTINF:-1 group-title="电影轮播",猫和老鼠
 http://159.75.85.63:35455/huya/11352879
 http://cfss.cc/cdn/hy/11352879.m3u8
