@@ -433,7 +433,8 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
 #EXTINF:-1 group-title="电影轮播",赵本山
 https://www.goodiptv.club/douyu/9817716
 #EXTINF:-1 group-title="电影轮播",脱口秀大会播
-http://159.75.85.63:35455/huya/11352875#http://cfss.cc/cdn/hy/11352875.m3u8
+http://159.75.85.63:35455/huya/11352875
+http://cfss.cc/cdn/hy/11352875.m3u8
 
 #EXTINF:-1 group-title="春晚现场",春晚1984
 http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
@@ -491,16 +492,23 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 
-#EXTINF:-1 group-title="收音广播",重庆新闻
-http://live.xmcdn.com/live/128/64.m3u8
-#EXTINF:-1 group-title="收音广播",厦门新闻
-http://ls.qingting.fm/live/1737.m3u8
+
 #EXTINF:-1 group-title="收音广播",广州新闻
 http://live.xmcdn.com/live/256/64.m3u8
 #EXTINF:-1 group-title="收音广播",广州汽车音乐
 http://live.xmcdn.com/live/257/64.m3u8
 #EXTINF:-1 group-title="收音广播",广州交通电台
 http://ls.qingting.fm/live/4955.m3u8
+#EXTINF:-1 group-title="收音广播",梅州交通广播
+http://ls.qingting.fm/live/24195.m3u8
+#EXTINF:-1 group-title="收音广播",梅州新闻广播
+http://ls.qingting.fm/live/24173.m3u8
+#EXTINF:-1 group-title="收音广播",江苏新闻广播
+http://ls.qingting.fm/live/4944.m3u8
+#EXTINF:-1 group-title="收音广播",重庆新闻
+http://live.xmcdn.com/live/128/64.m3u8
+#EXTINF:-1 group-title="收音广播",厦门新闻
+http://ls.qingting.fm/live/1737.m3u8
 #EXTINF:-1 group-title="收音广播",四川新闻综合广播
 http://ls.qingting.fm/live/4906.m3u8
 #EXTINF:-1 group-title="收音广播",太原新闻广播
@@ -509,3 +517,27 @@ http://ls.qingting.fm/live/23873.m3u8
 http://ls.qingting.fm/live/60180.m3u8
 #EXTINF:-1 group-title="收音广播",岳阳新闻综合广播
 http://ls.qingting.fm/live/88933.m3u8
+#EXTINF:-1 group-title="收音广播",广西新闻
+http://ls.qingting.fm/live/1753.m3u8
+#EXTINF:-1 group-title="收音广播",惠州新闻综合广播
+http://ls.qingting.fm/live/5016.m3u8
+#EXTINF:-1 group-title="收音广播",新疆新闻广播
+http://ls.qingting.fm/live/1902.m3u8
+#EXTINF:-1 group-title="收音广播",无锡新闻广播
+http://ls.qingting.fm/live/2777.m3u8
+#EXTINF:-1 group-title="收音广播",昆明资讯频率
+http://ls.qingting.fm/live/1937.m3u8
+#EXTINF:-1 group-title="收音广播",沈阳新闻广播
+http://ls.qingting.fm/live/23891.m3u8
+#EXTINF:-1 group-title="收音广播",河北新闻广播
+http://ls.qingting.fm/live/1644.m3u8
+#EXTINF:-1 group-title="收音广播",海南新闻广播
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1 group-title="收音广播",温州新闻广播
+http://ls.qingting.fm/live/23861.m3u8
+#EXTINF:-1 group-title="收音广播",长沙新闻广播
+http://ls.qingting.fm/live/4877.m3u8
+#EXTINF:-1 group-title="收音广播",青岛新闻广播
+http://ls.qingting.fm/live/1673.m3u8
+#EXTINF:-1 group-title="收音广播",龙广新闻广播
+http://ls.qingting.fm/live/4974.m3u8
