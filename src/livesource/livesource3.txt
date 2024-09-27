@@ -488,5 +488,24 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 #EXTINF:-1 group-title="春晚现场",春晚2023
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="春晚现场",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
+
+#EXTINF:-1 group-title="收音广播",重庆新闻
+http://live.xmcdn.com/live/128/64.m3u8
+#EXTINF:-1 group-title="收音广播",厦门新闻
+http://ls.qingting.fm/live/1737.m3u8
+#EXTINF:-1 group-title="收音广播",广州新闻
+http://live.xmcdn.com/live/256/64.m3u8
+#EXTINF:-1 group-title="收音广播",广州汽车音乐
+http://live.xmcdn.com/live/257/64.m3u8
+#EXTINF:-1 group-title="收音广播",广州交通电台
+http://ls.qingting.fm/live/4955.m3u8
+#EXTINF:-1 group-title="收音广播",四川新闻综合广播
+http://ls.qingting.fm/live/4906.m3u8
+#EXTINF:-1 group-title="收音广播",太原新闻广播
+http://ls.qingting.fm/live/23873.m3u8
+#EXTINF:-1 group-title="收音广播",山东新闻广播
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 group-title="收音广播",岳阳新闻综合广播
+http://ls.qingting.fm/live/88933.m3u8
