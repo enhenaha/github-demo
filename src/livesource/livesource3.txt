@@ -254,110 +254,7 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/ind
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",广东卫视
-http://124.205.11.205:91/live/GDWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",安徽卫视
-http://124.205.11.205:91/live/AHWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",湖南卫视
-http://124.205.11.205:91/live/HuNWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",北京卫视
-http://124.205.11.205:91/live/BJWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",东方卫视
-http://124.205.11.205:91/live/DFWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",天津卫视
-http://124.205.11.205:91/live/TJWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",重庆卫视
-http://124.205.11.205:91/live/CQWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",黑龙江卫视
-http://124.205.11.205:91/live/HLJWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",吉林卫视
-http://124.205.11.205:91/live/JLWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",辽宁卫视
-http://124.205.11.205:91/live/LNWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",河北卫视
-http://124.205.11.205:91/live/HeBWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",山东卫视
-http://124.205.11.205:91/live/SDWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",河南卫视
-http://124.205.11.205:91/live/HuNWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",湖北卫视
-http://124.205.11.205:91/live/HuBWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",江西卫视
-http://124.205.11.205:91/live/JXWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",江苏卫视
-http://124.205.11.205:91/live/JSWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",浙江卫视
-http://124.205.11.205:91/live/ZJWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",东南卫视
-http://124.205.11.205:91/live/DNWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",深圳卫视
-http://124.205.11.205:91/live/SZWShd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",贵州卫视
-http://124.205.11.205:91/live/GZWShd-8M/live.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="地方频道",广西卫视
-http://124.205.11.205:91/live/GXWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="地方频道",云南卫视
-http://124.205.11.205:91/live/YNWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="地方频道",四川卫视
-http://124.205.11.205:91/live/SCWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="地方频道",新疆卫视
-http://124.205.11.205:91/live/XJWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="地方频道",兵团卫视
-http://124.205.11.205:91/live/BTWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="地方频道",西藏卫视
-http://124.205.11.205:91/live/XZWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="地方频道",海南卫视
-http://124.205.11.205:91/live/LYWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="地方频道",三沙卫视
-http://124.205.11.205:91/live/SSWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方频道",农林卫视
-http://124.205.11.205:91/live/NLWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="地方频道",大湾区卫视
-http://124.205.11.205:91/live/NFWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方频道",内蒙古卫视
-http://124.205.11.205:91/live/NMGWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="地方频道",厦门卫视
-http://124.205.11.205:91/live/XMWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="地方频道",宁夏卫视
-http://124.205.11.205:91/live/NXWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="地方频道",甘肃卫视
-http://124.205.11.205:91/live/GSWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="地方频道",青海卫视
-http://124.205.11.205:91/live/QHWS-1500k/live.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="地方频道",山西卫视
-http://124.205.11.205:91/live/SXWS1-1500k/live.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="地方频道",陕西卫视
-http://124.205.11.205:91/live/SXWS3-1500k/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",纪实文人
-http://124.205.11.205:91/live/JSRWhd-8M/live.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="地方频道",哈哈炫动
-http://124.205.11.205:91/live/XDKT-1500k/live.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
-http://124.205.11.205:91/live/JYKT-1500k/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",金鹰纪实
-http://124.205.11.205:91/live/JYJShd-8M/live.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
-http://124.205.11.205:91/live/JJKT-1500k/live.m3u8
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="地方频道",财富天下
-http://124.205.11.205:91/live/CFTX-1500k/live.m3u8
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方频道",北京文艺
-http://124.205.11.205:91/live/BTVWYhd-5M/live.m3u8
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方频道",北京体育休闲
-http://124.205.11.205:91/live/BTVTYhd-8M/live.m3u8
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方频道",北京影视
-http://124.205.11.205:91/live/BTVYShd-5M/live.m3u8
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方频道",北京财经
-http://124.205.11.205:91/live/BTVCJhd-5M/live.m3u8
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方频道",北京生活
-http://124.205.11.205:91/live/BTVSHhd-5M/live.m3u8
-#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",北京新闻
-http://124.205.11.205:91/live/BTVXWhd-5M/live.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
-http://124.205.11.205:91/live/BTVKJhd-5M/live.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
-http://124.205.11.205:91/live/BTVKJhd-8M/live.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",北京国际
-http://124.205.11.205:91/live/BTVGJ-1500k/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳门卫视
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.jpg",新闻综合
@@ -436,60 +333,64 @@ https://www.goodiptv.club/douyu/9817716
 http://159.75.85.63:35455/huya/11352875
 http://cfss.cc/cdn/hy/11352875.m3u8
 
-#EXTINF:-1 group-title="春晚现场",春晚1984
-http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="春晚现场",春晚1985
-http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="春晚现场",春晚1986
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1987
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1988
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1991
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1992
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1993
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1994
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1995
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1997
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1998
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1999
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2000
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2001
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2002
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2004
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2005
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2006
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2007
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2008
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2009
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2014
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2019
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2020
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2023
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+
 #EXTINF:-1 group-title="春晚现场",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2020
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2009
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2008
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2007
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2006
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2005
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2004
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2002
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚2000
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1991
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1988
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1987
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚现场",春晚1985
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 group-title="春晚现场",春晚1984
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+
+
 
 
 #EXTINF:-1 group-title="收音广播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
@@ -526,8 +427,6 @@ http://ls.qingting.fm/live/5016.m3u8
 http://ls.qingting.fm/live/1902.m3u8
 #EXTINF:-1 group-title="收音广播",无锡新闻广播
 http://ls.qingting.fm/live/2777.m3u8
-#EXTINF:-1 group-title="收音广播",昆明资讯频率
-http://ls.qingting.fm/live/1937.m3u8
 #EXTINF:-1 group-title="收音广播",沈阳新闻广播
 http://ls.qingting.fm/live/23891.m3u8
 #EXTINF:-1 group-title="收音广播",河北新闻广播
