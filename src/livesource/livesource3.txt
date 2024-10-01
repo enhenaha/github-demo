@@ -3,13 +3,13 @@
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 http://live.cooltv.top/tv/tvb.php?id=0&hq
+http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 http://124.244.149.194:65531/bysid/83
+http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771748/ei/BGD7ZuH6MuSw2roPgPm6kQw/ip/2400%3Abea0%3A1aa1%3A3d0e%3A4464%3A4579%3A3a9c%3Aa9fc/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54Mbxd3Kf2V7z6hpqnNRZrTjOKmk7HLqr9RzTytP_DQf7G2QqgDY2tLa2lbSU95PL-Yx5grAq3wW/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDF1NuT6nACufNOh1GdWs6RnwlbrnFMyi7SXLj9QFPpcCIAx91UmuPrEmWJDjjhUK0p6zKRWHwgEZnryowVYonzdq/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727777410/ei/Inb7ZtjvIJ7s2roPvqWawAo/ip/2400%3Abea0%3A1c98%3Aea44%3Aca00%3A757%3A8ebe%3A185e/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxeiT3KnBTnHylHo71-s6Mcw6Ag6f-w2NUnXUhqmP7a8hdXHNn0HWsZtxNCQGfZ-BQhMjriQx/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDuoPeTtGC5anQzgb5InXlO1Ns7RvyhZUcBOwyof-HaACIQCUV1c9ikCM_bwZ4bzTR5T8FnJemhgZUT_ed2E7Mgk9Tw%3D%3D/file/index.m3u8$油管线路
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://lidahai.top:8100/udp/239.93.1.4:2191
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -124,7 +124,6 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 https://gat.zhoujie218.top/litv/litv-longturn23
 http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",全球财经台
-http://37.27.111.214:8080/live/64/hls.m3u8
 https://gat.zhoujie218.top/4gtv/224
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",台视财经台
 https://gat.zhoujie218.top/litv/4gtv-4gtv056
@@ -223,23 +222,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV2.jpg",CCTV2
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-http://8.138.7.223/tv/bjcckd.php?id=2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV3.jpg",CCTV3
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV4.jpg",CCTV4
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV5.jpg",CCTV5
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
-http://tnvcn.com:8012/rtp/239.3.1.173:8001
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV5%2B.jpg",CCTV5+
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
-http://tnvcn.com:8012/rtp/239.3.1.130:8004
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV6.jpg",CCTV6
 http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
@@ -274,7 +267,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV16.jpg",CCTV16
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV17.jpg",CCTV17
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
