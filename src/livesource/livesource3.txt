@@ -61,18 +61,22 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",寰宇新闻台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771785/ei/KWD7ZqmaHrGS1d8Pp6vv8AM/ip/2400%3Abea0%3A131a%3A2a9f%3Ae878%3A6a29%3A7233%3A735d/id/6IquAgfvYmc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxXZHwweWLC9Foqzr0kiTDYaVc45F8CNYsm6KG0K7X1RelT-aymQg1SG1W3q-HqwqoQgYcDCO/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTIpBKd79ErqMPnPz342rY4HVIhc3kdEfJCtuPjFBClACIAnlQoVao1sBvCZ08GhOXl9avJQHog_zjNmH7JJm0snn/file/index.m3u8$油管线路
+http://222.186.57.43:22222/php/litv.php?id=litv-longturn14
+http://cdn.iptv8k.top/dl/jspd.php?id=7
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",中天新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771807/ei/P2D7Zp7QDMCU1d8Pyra7yAU/ip/2400%3Abea0%3A131a%3A2a9f%3Ae878%3A6a29%3A7233%3A735d/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxVsu3FruVxTZwb7OestIUrIBxSLJiJygCtUO4EcXvTGsB_ePrDXLv6CauzGdlA49DSIv2OXI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPnhOjno-dbeXmItxDO1p-VA1nm23eNOsBZMnQ9qKVS9AiEAyAGyvp3k8Sf_NicdQNEsjGEe4UXVxakTwCIyw79Gh3Y%3D/file/index.m3u8$油管线路
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 https://gat.zhoujie218.top/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻1
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771830/ei/VmD7Zv29A_CNvcAPhYXA0Q4/ip/2400%3Abea0%3A16fd%3Ac0d0%3Afb28%3Ad78b%3A8dc5%3A15cc/id/oZdzzvxTfUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxXy6U7YlVo4KFwLtnyDmJ-vbCCPLjTxa0r3IRlXueGjC1JzdkzGY0P_Y0zmRGFpcitPImfIX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP-KSvf6jBM1R5jPCMIdJzg3_Xdd26-qUwB5-_FrXF0CAiEA9WA5MWUr_2P0I4rVyEKrJ7KNzIWtbId3AR-Ct7kUMpY%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/tvbs-news.jpg",TVBS News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771849/ei/aWD7ZtjsIMuYvcAP-8qtiQw/ip/2400%3Abea0%3A16fd%3Ac0d0%3Afb28%3Ad78b%3A8dc5%3A15cc/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxamvYd5PxlqUFOzgdeA6f1NoV72ZhVaAUp0xtM2T7J_rXGznEG3fFcIHtZzp3OUkPBbTyiuM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdNttOb1U5ZAx5Dc1x49p16smuLdrg1MnNIXUOocMss4CIHwgq2o9HCHTBCGLLYRUl8d1kyH3mTY-3jvq_cCYXCcb/file/index.m3u8$油管线路
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771873/ei/gWD7ZtLeBpaOvcAPz5HCqQ4/ip/2400%3Abea0%3A16fd%3Ac0d0%3Afb28%3Ad78b%3A8dc5%3A15cc/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54Mbxch3hH5GscwKncJ_-AuUfhtp9WQLPpgPseEViEPWY13mPJwMT7t1TXn-TURD04yHCOGyNIo6/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALqGO0Cdt9kEUliLc3caXK3-2SXJHvpFE-Q99ZGHv98TAiEAiqxDnW6125Zh2YjVfNb7qC6_C9hnz8xMQ6NVVuJLfgQ%3D/file/index.m3u8$油管线路
+https://litv.zapi.us.kg/?id=4gtv-4gtv152
+http://37.27.111.214:8080/live/20/hls.m3u8
 http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv152
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.jpg",台视新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771893/ei/lWD7ZtmZM7HN2roP5u_DWA/ip/2400%3Abea0%3A16fd%3Ac0d0%3Afb28%3Ad78b%3A8dc5%3A15cc/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxfWkH4nkN4T1LhFUWUS1y-W6xqMrXg0q_BwwsLWbFLB3IRHHYZaa-Xsasr6UMFoo0Sk8ojXe/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXkgJ3hvT1afYbNvR2ehgnMxLer44CLiA104yW0CI7SoCIE8Hyn8mfcz6xLWf5ZPGf579ExDcwrf-aTY4BxO3qwmW/file/index.m3u8$油管线路
@@ -102,7 +106,9 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv010
 
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",TVBS亚洲
+http://125.227.210.55:8186/VideoInput/play.ts
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+http://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8D%8E%E8%A7%86.jpg",华视台
@@ -272,10 +278,11 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",广东新闻
-http://mail.bfgpay.cn:2052/udp/239.77.0.173:5146
-http://jt.zorua.cn:8787/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-logo="#" group-title="地方频道",广东卫视
+http://114.249.161.174:4022/rtp/239.3.1.142:8048
+http://221.232.13.58:4022/rtp/239.254.96.140:8914
+http://123.113.149.45:3568/rtp/239.3.1.142:8048
+http://114.254.187.194:9999/rtp/239.3.1.142:8048
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳门卫视
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.jpg",新闻综合
