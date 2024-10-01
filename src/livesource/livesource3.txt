@@ -73,6 +73,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771830/ei/V
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/tvbs-news.jpg",TVBS News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771849/ei/aWD7ZtjsIMuYvcAP-8qtiQw/ip/2400%3Abea0%3A16fd%3Ac0d0%3Afb28%3Ad78b%3A8dc5%3A15cc/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxamvYd5PxlqUFOzgdeA6f1NoV72ZhVaAUp0xtM2T7J_rXGznEG3fFcIHtZzp3OUkPBbTyiuM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdNttOb1U5ZAx5Dc1x49p16smuLdrg1MnNIXUOocMss4CIHwgq2o9HCHTBCGLLYRUl8d1kyH3mTY-3jvq_cCYXCcb/file/index.m3u8$油管线路
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/refs/heads/main/src/assets/img/tvbs%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",TVBS新闻
+http://125.227.210.55:8186/VideoInput/play.ts
+http://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 group-title="台湾新闻" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727771873/ei/gWD7ZtLeBpaOvcAPz5HCqQ4/ip/2400%3Abea0%3A16fd%3Ac0d0%3Afb28%3Ad78b%3A8dc5%3A15cc/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54Mbxch3hH5GscwKncJ_-AuUfhtp9WQLPpgPseEViEPWY13mPJwMT7t1TXn-TURD04yHCOGyNIo6/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALqGO0Cdt9kEUliLc3caXK3-2SXJHvpFE-Q99ZGHv98TAiEAiqxDnW6125Zh2YjVfNb7qC6_C9hnz8xMQ6NVVuJLfgQ%3D/file/index.m3u8$油管线路
 https://litv.zapi.us.kg/?id=4gtv-4gtv152
@@ -106,9 +109,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv010
 
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",TVBS亚洲
-http://125.227.210.55:8186/VideoInput/play.ts
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-http://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 group-title="台湾频道" tvg-logo="#",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8D%8E%E8%A7%86.jpg",华视台
