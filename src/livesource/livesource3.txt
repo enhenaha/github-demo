@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
+https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1728304666&token=93e24a95d1be640376ead41634198023
 http://live.cooltv.top/tv/tvb.php?id=0
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-https://bstvcdn.ballbar.net/inews_twn/playlist-15.m3u8a?t=1728296252&token=c5a8b8de74b0732cb7d12cb0744f768e
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 http://124.244.149.194:65531/bysid/83
