@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="特别节目" tvg-logo="#",国足vs澳大利亚1
+#EXTINF:-1 group-title="特别节目",国足vs澳大利亚1
 https://pullaliyun.speedzonerc.com/live/hd-zh-1-4146364.m3u8?auth_key=1728551537-0-0-d22114f7eb4ea61de5739f17d5ab7121
-#EXTINF:-1 group-title="特别节目" tvg-logo="#",国足vs澳大利亚2
+#EXTINF:-1 group-title="特别节目",国足vs澳大利亚2
 https://pullhw.zhaoyangyang.cn/live/8727732.flv?auth_info=uDIpZ84eby4sgs2%2FW6qShj3S%2BCmhY38lVDViwmY261M%3D.31566a725276424b4f486641386b6871
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
