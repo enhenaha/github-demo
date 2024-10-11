@@ -9,10 +9,9 @@ http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 http://124.244.149.194:65531/bysid/83
 http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728573364/ei/VJsHZ7WYHayPvcAP_IGOyAQ/ip/2401%3Ab60%3A13%3Aa025%3A8916%3A6222%3A8e4b%3A31bd/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54Mbxfjh9EskmG4bQpm1hI9jPEoIdIYiOsvnc6uerg0053Ge_FyVdACVK8SYrJrMEUSqjeBe2g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNgIcWu9-3VQozvBzkz3o1796ux986CR6ijqJzB62qEwCIQCRj8j-htaIPF-YCfH-W7tOCvIf8xgEWmIZ-yQWQfsfeA%3D%3D/file/index.m3u8$油管线路
-http://lidahai.top:8100/udp/239.93.1.4:2191
-http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728632872/ei/yIMIZ7xJyZbV3w_V-OwQ/ip/38.207.136.179/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxQtD5ZJLXSSMGYwbwIHixt-6VF2QbNCXGtoWX3wueOTUU7xvSMSxnArry3IvMPmHJa8Kmw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLKHMR2u5vD4XOq_EjN5erDaCtMc2b8GaNA8SP_4UR-QCIQCX9iTbIKGpx1J0q6I2a0N61QOb9ZQwcYJvHxQ9ZRJKEA%3D%3D/file/index.m3u8$油管线路
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://183.133.104.36:8899/rtp/233.50.200.192:5140
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
@@ -20,6 +19,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 http://183.151.16.91:4022/rtp/233.50.200.192:5140
 http://117.114.153.26:8180/TV00000000000000000068@HHZT
 http://115.193.30.85:9999/rtp/233.50.200.192:5140
+http://lidahai.top:8100/udp/239.93.1.4:2191
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
