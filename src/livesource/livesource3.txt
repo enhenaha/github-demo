@@ -2,24 +2,17 @@
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
 http://ali.hlspull.yximgs.com/live/9c54a164d1ee6d0693947649a2560d0d.flv
-http://live.cooltv.top/tv/tvb.php?id=0
-http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-http://124.244.149.194:65531/bysid/83
 http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728759911/ei/B3QKZ9fUMpGX1d8PjY-36Qk/ip/38.207.136.179/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxaGK-zRCKgxcVrRatx3uU2RNEwFjH6LFEb20fnWwppbGEHebEdGBwC3cfLZlMPhNci4ecw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCspKD4qraI7HrYBmRcSfUs4AGN69aAKSdPzmrZI1a3cCICGZoccvoHY1cqqfqLRAREiRhjHLrGtjTJ_DOC7Pyz-t/file/index.m3u8$油管线路
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-http://183.133.104.36:8899/rtp/233.50.200.192:5140
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-http://183.151.16.91:4022/rtp/233.50.200.192:5140
-http://117.114.153.26:8180/TV00000000000000000068@HHZT
-http://115.193.30.85:9999/rtp/233.50.200.192:5140
 http://lidahai.top:8100/udp/239.93.1.4:2191
+http://117.114.153.26:8180/TV00000000000000000068@HHZT
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -29,18 +22,14 @@ http://58.250.155.2:8180/TV00000000000000000031@HHZT
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-http://124.244.149.194:65531/bysid/85
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",亚洲卫视
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://ali.hlspull.yximgs.com/live/513f421dbc202d754894986a8dbdf643.flv
-http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-https://live.hkdvb.com/hls/live/81.m3u8?token=631170156107453
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-http://124.244.149.194:65530/bysid/1
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="香港频道" tvg-logo="#",TVB18台
@@ -72,7 +61,6 @@ http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxf
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",中天新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728759942/ei/JnQKZ_P9N5CrvcAPxezI2Qc/ip/38.207.136.179/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxeCtcJKfsDFndaKIbYL2Fy_Zg2cEFTsaFyZad2_TPNPB-8rm3NbveZ2pnylzZkZ13Hfiaw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgctYZ3vlApfJFanbSy-lKYnM5zCXBHUeK0VSa6kqHI4sCIQCDEx0dgYE-nJzoZut9TIYubBmLzrYZbdQi8WdJ7Uz6Dw%3D%3D/file/index.m3u8$油管线路
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
-https://gat.zhoujie218.top/litv/4gtv-4gtv009
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
 http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/tvbs-news.jpg",TVBS News
