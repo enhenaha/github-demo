@@ -201,12 +201,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-logo="" group-title="地方频道",广东珠江
 http://www.zzlag.top:9003/hls/31/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳门卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.jpg",新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-logo="" group-title="地方频道",澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="地方频道",澳门Macau
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%B2%BE%E5%93%81%E8%AE%B0%E5%BD%95.png",精品纪录
