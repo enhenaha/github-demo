@@ -28,7 +28,7 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",亚洲卫视
+#EXTINF:-1 group-title="香港频道" tvg-logo="",亚洲卫视
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://ali.hlspull.yximgs.com/live/513f421dbc202d754894986a8dbdf643.flv
@@ -36,19 +36,19 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbjade
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",Viu6
+#EXTINF:-1 group-title="香港频道" tvg-logo="",Viu6
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",VIUTV1
+#EXTINF:-1 group-title="香港频道" tvg-logo="",VIUTV1
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",珍珠台
+#EXTINF:-1 group-title="香港频道" tvg-logo="",珍珠台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",J2
+#EXTINF:-1 group-title="香港频道" tvg-logo="",J2
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",TVB星河
+#EXTINF:-1 group-title="香港频道" tvg-logo="",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",星光综合台
+#EXTINF:-1 group-title="香港频道" tvg-logo="",星光综合台
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="香港频道" tvg-logo="#",金马影院
+#EXTINF:-1 group-title="香港频道" tvg-logo="",金马影院
 http://pull.kktv8.com/livekktv/128600025.flv
 #EXTINF:-1 group-title="香港频道" tvg-logo="",港台电视31
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn
@@ -85,7 +85,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://125.227.210.55:8186/VideoInput/play.ts
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n
 http://litv.zapi.us.kg/?id=4gtv-4gtv072
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",TVBS HD
+#EXTINF:-1 group-title="台湾频道" tvg-logo="",TVBS HD
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728841518/ei/zrILZ-X7MsmQ5t0PxKGl6AE/ip/38.207.136.179/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxWzcLpFmRplOTeAdslj5XXEUzvUZU5-VlLlAFAO7fMKiVKOWa_kpoFVzx_46o5IYO4pwfw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANFQ1YcORb4jN8thATeMhZY6ldgtTrOzdGDcNZxRro1FAiBOnGkztEoQRGAK1HscIon12kzGqfDYf6zZfpt_9CDexg%3D%3D/file/index.m3u8$油管线路
@@ -124,13 +124,13 @@ http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn
 https://litv.zapi.us.kg/?id=4gtv-4gtv010
 http://litv.zapi.us.kg/?id=4gtv-4gtv010
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",年代新闻
+#EXTINF:-1 group-title="台湾频道" tvg-logo="",年代新闻
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",纬来日本台
+#EXTINF:-1 group-title="台湾频道" tvg-logo="",纬来日本台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",TVBS亚洲
+#EXTINF:-1 group-title="台湾频道" tvg-logo="",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="#",Nickelodeon
+#EXTINF:-1 group-title="台湾频道" tvg-logo="",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
@@ -197,17 +197,17 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",广东卫视
+#EXTINF:-1 tvg-logo="" group-title="地方频道",广东卫视
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",广东珠江
+#EXTINF:-1 tvg-logo="" group-title="地方频道",广东珠江
 http://www.zzlag.top:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳门卫视
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.jpg",新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",澳视澳门
+#EXTINF:-1 tvg-logo="" group-title="地方频道",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="地方频道",澳门Macau
+#EXTINF:-1 tvg-logo="" group-title="地方频道",澳门Macau
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%B2%BE%E5%93%81%E8%AE%B0%E5%BD%95.png",精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
