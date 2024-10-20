@@ -84,7 +84,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv052
 https://litv.zapi.us.kg/?id=4gtv-4gtv052
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%95%9C%E6%96%B0%E9%97%BB.png",镜电视新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729349616/ei/kHMTZ4WUBOmU1d8P4eCu8AE/ip/38.207.136.179/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxV_EbeIPxAWdwEbtk8CQ4vl7nWRGFR6YkaUVN7Vat545no7ne0A_4Z2tBk2O2WFPwnquDE_7/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJk_1eXO1JAfFNbbWFzf4Ig8hcBdMRfnZl8ODsb_iT7mAiAZMgzaUbSEnZH7krbnqRjKaJlIx3z5cVPcV0oFVo51nQ%3D%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729440823/ei/19cUZ-XUGbGR7OsP6pq5uQU/ip/2401%3Ab60%3A16%3Aa7%3A0%3A0%3A0%3A0/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAXa8FnETsETmRYnm2bms3p2brXPhQUXAuHZ5cjd4Q0XUQ7HIJ8hKMCKX-P0z3OsMGoZYTDr3/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUinj5FOVFns_HLF2fhCmLES1UDHr83zL6qd7ZUlqc3kCIQDnsdj-Jc08SVyoLi5vBOc2RyBX5gnKfbV9AiLA8YD1qA%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB.png",东森财经新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729440700/ei/XNcUZ_rDOL6WvcAPo5-juA8/ip/2401%3Ab60%3A16%3Aa7%3A0%3A0%3A0%3A0/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxeSsfslRR2x6Gz8lQ7vaZdCmH5XG-HXnFO7fl5Kv4PR7KSQGsWjWQ5rs0MLo73KnsXGboXAL/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPO_3hS9Yy2TLR7nsz_SQc_D1t0ENYzzU8bIvuISwhUVAiBNlEjIkdaMo8g5schrF5VtpJosZosfnQhj7Rr8bF39xA%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/refs/heads/main/src/assets/img/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.jpg",非凡新闻
@@ -160,10 +160,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="地方频道",广东卫视
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-logo="" group-title="地方频道",广东珠江
-http://www.zzlag.top:9003/hls/31/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%BE%B3%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方频道",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.jpg",新闻综合
