@@ -5,6 +5,7 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729870263/ei/V2UbZ4WrGZqNvcAPxITjkAk/ip/129.227.137.195/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAWRemw8ngR0y7Rc815BZRdRuT7MHbRwUOBso9j_XjiXgadEY6Nw1rcTH_NU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfFIRNCvlXW528C96bcl0AzJMfqQYlnf2HrRHRFAsw5ECIFsVArfq_lB7o29iR65OUE8u1see7HrcpvuFiNDYCjN6/file/index.m3u8$油管线路
+https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
@@ -13,11 +14,13 @@ http://117.114.153.26:8180/TV00000000000000000068@HHZT
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://122.224.232.218:8888/rtp/233.50.200.191:5140
 http://58.250.155.2:8180/TV00000000000000000031@HHZT
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.jpg",凤凰卫视香港台
+https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -51,8 +54,10 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",寰宇新闻台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729870300/ei/e2UbZ-zrPMicvcAP1I3AyQ8/ip/129.227.137.195/id/6IquAgfvYmc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAY9JsDuCtSvZRBxTh51mPVuiEX4hATcLhJngtupNGJwyAfdlK0fWKn0eqZo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZMK91RSpPKI-d55FbTVwWAXgCzKd696pNmlgBtpDbTQCIF2N9b0s0exXTsbUlLtBLu7eIfyoau0Ds17dcYDlLgFH/file/index.m3u8$油管线路
+https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",中天新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729870322/ei/kmUbZ-7XIJS02roPttm_mQY/ip/129.227.137.195/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApATU7nu8fMsBgUGavX3lt1hc1IZ3jDSd_Q4udEwZ-36cPSxzcsEqX_RUG6qM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJKAA7r_1XApE4DWXxsqgO8hjWQq8IK_-7BiA0qvSoiWAiEAjzx2t5faeKvu1bHyHKBl3_bPEW29Yjo0RjRQQsK1npI%3D/file/index.m3u8$油管线路
+https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729803153/ei/MV8aZ7nMMffD1d8Pqe7K8AU/ip/2401%3Ab60%3A16%3Aa7%3A0%3A0%3A0%3A0/id/MV9mI0GChwo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAWHZJaMOvBfwOESjoduiBm4RmICsSs796jk1_hi-aSGlNEJoCJ2LsqBQ8l12jPkqkDZ996y7/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51307728%2C51312688%2C51319288%2C51326931/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI65D5cqEUn_N7luucmx-VfegBUqrD7TOj6t_4gD2AbTAiEAiNpfTbJqK5qbXiOowi2k-6JcQX2nZYV9E5oyAp9xius%3D/file/index.m3u8$油管线路
@@ -60,6 +65,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729803153/ei/M
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729870340/ei/pGUbZ8THMJDJ2roPzsjsuAw/ip/129.227.137.195/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAUgjdceg_BV9Cuk278aRkh-DjpqYPqtnCxG2WmrzetoQuSd84jWCwb__WB8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAONyBBMYMFdNCRXw4qhZh8FaGZdOH1CzHjTLzH4OzJCeAiEA_jtplQXZVHo-gNcc6ejXvf8hqkUjqR45y17typnQeu4%3D/file/index.m3u8$油管线路
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/refs/heads/main/src/assets/img/tvbs%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",TVBS新闻
+https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://125.227.210.55:8186/VideoInput/play.ts
 http://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
@@ -98,6 +104,8 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台湾频道", 三立财经新闻
+https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV1.jpg",CCTV1
