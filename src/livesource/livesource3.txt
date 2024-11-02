@@ -84,12 +84,8 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730389191/ei/Z1AjZ8GwEo7P7OsP2JyV6Qs/ip/38.207.136.179/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAe1ENDv0-fjnk_xC44vQbCm-T_X5Z6U-jawNzuWl3mT_lB6LM24cu0-ub2t7TdnbQFvriGJX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMsXzL3Lt7DX4f_cxmAXirOLWCHWRxh0q7UuwMTDdqOxAiBl3lWcwkehQ1Li5KfgNYACVp2CS91XLBCdvpIt8ccejA%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB.png",东森财经新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730389208/ei/eFAjZ_iLJq-ZvcAP75Ho-Qc/ip/38.207.136.179/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280022/txs/51280022%2C51280023%2C51280024/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAbNn9htoMgklsHatGObeRMfn2bjw3etDOCBEisy9V3JkCv5n7CJzZHhM6uAexGzhkegwFK_k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPhXObB1gzTVtraqHbiUF7hrkaDKq8RVVjbam_VC2OzHAiEAlaVk4u8KQEuvZXfAlwKDWTw86d_fixStvBLrhzRIoZ4%3D/file/index.m3u8$油管线路
-#EXTINF:-1 group-title="台湾频道" tvg-logo="",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV1.jpg",CCTV1
