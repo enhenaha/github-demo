@@ -33,8 +33,8 @@ http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlay
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 
-
-
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",足球直播
+https://hls.yjjcfw.com/live/4146376.m3u8?hwSecret=c71e953f5abfde993b1a4bbd0f5e5f9467c190416c8821e699b809f39bc6d1ab&hwTime=673C795F
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",寰宇新闻台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732029722/ei/ulg8Z62eIs3L2roP7MDB8Qg/ip/141.98.75.234/id/6IquAgfvYmc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAZ6RMbG6DUwwXBsM2PZr-xCTOQoCxmlRLiiwEJIdKT9R9EnMucKcPCITYbTrtJYXW7HmJ5e1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51319288%2C51326932%2C51335593/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgdHKADDlFBQjpPi_Ymhg7hs-zSFlqar4VJLETcS00EEECIQD1VAUymvByPJfaDMMYzitg0qzgXSZ3OOnyL6fLfhuCpw%3D%3D/file/index.m3u8$油管线路
 https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
