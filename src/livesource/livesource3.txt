@@ -149,8 +149,6 @@ http://ls.qingting.fm/live/4974.m3u8
 
 
 
-#EXTINF:-1 group-title="电影轮播",成龙
-http://zby.xjqxz.top/cldy/live.m3u8
 #EXTINF:-1 group-title="电影轮播",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
 
