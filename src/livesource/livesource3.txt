@@ -103,8 +103,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 
 
-#EXTINF:-1 group-title="收音广播" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%B9%BF%E6%92%AD.png",美国之音广播
-https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+
 #EXTINF:-1 group-title="收音广播",广州新闻
 http://live.xmcdn.com/live/256/64.m3u8
 #EXTINF:-1 group-title="收音广播",广州汽车音乐
