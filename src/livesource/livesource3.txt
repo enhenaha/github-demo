@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
+http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744574040/ei/-MH7Z5WuBcDVs8IP0ff_yAE/ip/23.156.153.4/id/HFib76ySpbU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380154/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcNHJPQfZiQEvMkSePuEloLxfOFDZH02vNzgg-i4eu0EhuRfACywFSI7QaHvYM2mzWWlYw/spc/_S3wKptrHG0dO39IPJNYvNzBIwkLhkI2D6dd9UqjvVR-BOMvsMrG8OILjYvDHFtnTkmB3LKbhAT5efAr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOs99jBLzhYsYGh2W-iWy7I40zwGz1YPWGgePu8ZVG7GAiAK_xcugyrEYac0DG-SEb5sAs_STG0fdPCf84CspBD25w%3D%3D/file/index.m3u8$油管线路
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744485577/ei/aWj6Z5e5DJLg1d8PqeSX4QI/ip/23.156.153.4/id/HFib76ySpbU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380154/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcM2FI9b90q1wVVPnuBW9wstJHy-oWISctvcRjMnXl-vzREaMe91FFiBx-M3HEsn_9Wmrg/spc/_S3wKnAZ-2qaYkM3s4q1yJGmpjZKZmpeG4RvscI8yWGc3TmE92DC7VRQW10FzOczZk9lYBOLbcM0mtaU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPfehGUgzTH6z4Nh5CJviGQRxoj6eR7SoxH-TYbSy4SeAiAa9zvWtcKRYEw_Yy38BDOtlwLtj4C1wODJdU9SrnjaBw%3D%3D/file/index.m3u8$油管线路
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -14,8 +14,8 @@ https://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.jpg",凤凰卫视香港台
-http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
