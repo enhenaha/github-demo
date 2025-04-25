@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://ushls.ballbar.net/inews_twn/playlist-25.m3u8a?t=1745584237&token=751a772ddf7476d916cb1e0ba905d862
+https://ushls.ballbar.net/inews_twn/playlist-25.m3u8a?t=1745585895&token=0636b270f5166034eb4a509a53ea86b3
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745605438/ei/3n4LaO6qCKKavcAPoYrikQs/ip/85.237.207.179/id/LNux6O0Fj6A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAZM9W6q4Ag0q-HB3wcPdwmRhbRREM51FAbK6-rnrK2ZUQPmuafmyxJhHuAUv-3OeN8GWA/spc/wk1kZkQ-hvk8s9LkJ8C2mweSBpdgqGnMECKuUobMBmbQDh2otL3zQr6rtXJTYAkUiJ9PfrqxIlDMbZVp/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM6lovMyCQ4Hr14PUdw8hdrBu6mnu95phSoPCQmgM2qnAiEAxklD9l1drENl7c4bSiUFIX4aNbQ_8SxJJKgSpKeR0mM%3D/file/index.m3u8$油管线路
