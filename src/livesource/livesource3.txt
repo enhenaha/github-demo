@@ -4,6 +4,7 @@
 http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750145200/ei/UMRQaK71DpCz1d8P-aztiQU/ip/85.237.207.179/id/LNux6O0Fj6A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN1XHDeMV5xH39gqGTeC4pkLkpvonyIK_7f2ajTTQOOR_0ONWmmtOEBSSgGSlSO56l--VMwGBKq/spc/l3OVKXErCUK31fLdlQ4tG-10_P5Mu6bfVivAWVX_Dqo60YTwrSHSNGZwx0_e6KbL45rIHf2_GMQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMimzGbSZZQBYSy96bSmMB0rVqYAl7H1yNs3iy8fZ4g8AiBhv3tua2hcvCAUcjh09gkqjFHo3Z4IDu7s5XWztns9sw%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
