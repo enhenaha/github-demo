@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
 http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121113/ei/eahfaOKCKsmMvcAP7725wAQ/ip/23.156.153.4/id/BLaQVW5oUGU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPQUGr6BBPUdDgHJxmsgFDSlYg4INippW3Qqlw0ux99__9LKb7_DS-OGrE2QOc2Foww9uG5QnYd/spc/l3OVKYIuEaLlwy-d6GFUHwmkB51UE-oozAP4ykxJgvRKPA96GLyP2LxaTtpBUhRXdSGzHYMwCl8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIo-IUAX8b6Pl7LcoJm4E4VANOpgsGdGkJryug6vOX4GAiEA5heS4xpbY6UIZ3HowOqtstqi1K2idr7rithG8DJahJI%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224246/ei/VjthaMONOb6z2roP8aKIiQg/ip/23.156.153.4/id/BLaQVW5oUGU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOGZOJD7o3Txt2h-gyW_O7qyRDozLoTCYCaN14H6E1zuCUY0Sslzbdu1wIOhWeciTowmAWsKAq3/spc/l3OVKULoVdW9l0S3uZ-0qx88NYZdRHS8e3Wwr2nyIg42QO6DYjaakq6oFF2wPxYj_34puMYupz8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALWwp3cSgZTkEy1IZdYnQTMgiD_V1vg0VuRlKqtg2l1aAiA7WUuAnAVHLdkJBrJMjLlV9yRaEpbtfDpMYD52zuro-A%3D%3D/file/index.m3u8$油管线路
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -27,25 +27,25 @@ http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlay
 
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",寰宇新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121118/ei/fqhfaIPFJMWw2roP9I-JwAg/ip/23.156.153.4/id/Ej3LQM_lTEw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMCxJzp4aXRAE5yUDggalV-nlr8B9RsoR21qd6i7wB0fDlRqpBRQmMrxI2bYfXdpLcf748JoQht/spc/l3OVKUVPoK1drFVby_JSOzSYUzaFXLbuXskhhsZYQoytQeslLWea8WINsusWnmgPeFg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANL2btpIe01-01DuLC8ku3Z_DLo74GzlFMaZk57IGyw7AiAjaxnh9Znv3LiMvcKQg9Ny1LG_aLHhKUWrqeWBr-BiLA%3D%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224258/ei/YjthaNywHYrL2roPpsyguAo/ip/23.156.153.4/id/Ej3LQM_lTEw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLN6p_AhXf3YFLChvIooOZDS3WSZzan5qKLC669o3P9QcK45g7UnLTBpr0FO68sREV9gHeEucpIa/spc/l3OVKawuTG1TBgmAaIGP2YfR58-wtlzLgY3t029kvMrr6zAfVT-4LzGwAgrjw97D3JE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPPtZED902VoWDVFBrptRJMoLRPjLlGyJY2vu172uAloCIDS4TgdF3gG3Dcu8NY0iobKuD9buuRpgvxJNDymD4KkK/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.jpg",中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121122/ei/gqhfaK6yMe-M1d8P5NOH0AM/ip/23.156.153.4/id/vr3XyVCR4T0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN7l-GjCel4dlqEqjrUxtjR3ist2RUBPN42trV0off2KOIeV4IK2C8Q7Ndsj0dXuvhMWongvhRI/spc/l3OVKRM8e3JkYjAaWV8N0qW5KuKdkD23WeuucHYDTs-YuwdnMioxhBT1PEU5s1sxQFk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKXtEWNXqMAQhgg0fykW3wMLLA-Hi7-LEGQV0fhao4ahAiAAwubD4GoYRZXTlwgm80KBYv-CbhnCLEzbtuv2nz1DAg%3D%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224264/ei/aDthaKjEG8GpvcAPwJTIQQ/ip/23.156.153.4/id/vr3XyVCR4T0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPjKIMXoWHC637xQZ4CNAKURw5TONLePc30Lg7yH9hQsuTz9ujE6d2kJphbPGYpipcELskczZ9c/spc/l3OVKYeKQAEiuYPcQ4PhyrHeLsQNM8YbEdrAhlBAllPcnxoYRnrs0ZEd-yB2SBrwVts/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOpbX_wGi_pKXeUDozp0j-WAnMLvYcdaxxSFe_KmM50ACICzNC-pD3Yv_t-LAIANK2FHbuggTGJNfEcoe9ggnTJqq/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png",东森新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121126/ei/hqhfaNT2JaWd1d8P17bqiQ4/ip/23.156.153.4/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOAmeu8Epx86UyzsnbzdF9VbGU0oQUzwq-Dito0mFMQp0EjoFQo9_nqvGU6FbXIs4s2_7Fk6eKD/spc/l3OVKYIfFM2A0ggiDjjhpSuUxvQs129yv6C48N8h486h1K2piB6-nYcLwd_RQtUD9zw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL_mVXpCbAbkph-NdaGUQjMHhVzN8wGEOfAJG7P-nCAKAiEAxWTi_gz8S195tJsCUg6ULSgbW9g6XRTkvkub4LdIulA%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224271/ei/bzthaNaLBIe32roPguebiQs/ip/23.156.153.4/id/V1p33hqPrUk.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNdNeEZSW54-7F1nmCDhb6sNUdnwEwJuXD76zp7WEAYin90FtfHD7emdxhUueFG-MIKMhsOrh9d/spc/l3OVKeVjyXr_wwO7dCh23OS5JIHrB2CMwIa32c83LO5jTAfCOoLslUtnWxczAREri4M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPqaqzdF5tXF98IuMv2L4k2yJciFH6mXmvU1CfCi04GNAiBVlo_ff6hwbKuRB12PpMcHegNrxiygdp4T7xgx5BNoKw%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/tvbs-news.jpg",TVBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121130/ei/iqhfaLLQIaDI2roP2NbDOA/ip/23.156.153.4/id/m_dhMSvUCIc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOtF6VdZH6k6QulqMuAVzQYYzuOnV52ZGhw0i56oKpRU-HOWsmhqaBTPy39WolsL2vNyb1Lgkjy/spc/l3OVKbFWtYuOs9vC5LX58jgiFrH-x9LqYztyNiRWqy0oGT_OwTpizzAgLhvJWd_36bk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBOfMQdVDz4hfRRcXHfpfjuyPU1NJRzA5F8cBHrJYi_ECIB4Rluv7SutTcPmpvWwWti0HLhLXJeWs8CXNMzfdOcQS/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224277/ei/dTthaOjmH9ak0-kPqpPl4QE/ip/23.156.153.4/id/m_dhMSvUCIc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPTbXfQw-ZQT2jn5xhAgHW2VU5lR6Y88TlDPn1iLcL52t6sTgFAYOmhdhJM8Khkn6KKKh1dEHnH/spc/l3OVKSI21e2OSLd0mqhHYfFWvE6Ezu4YWdmyzxkVDDdxSqB-hRAE8OVturXLq6kCo2I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaVkXUAWWaRXeJKYYsFFfEQVxTW0euVXpp3tzrH3f_XoCIQCn6a1GEPFwWw4SVeGktuNVelOAQUZqZOjp7SSC-031OQ%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121134/ei/jqhfaLu7CoyOvcAPkOu5yQ4/ip/23.156.153.4/id/MV9mI0GChwo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPIGoslrn3AQPhBDM4bee8IaLoHoe-XfF0QMZyc-muXxD3YMv1qZqPEfanKEusbN8dUevdorcSV/spc/l3OVKWFPdG9HRJxhgyoUMpv3zWUXyZ9NIpP2-SygtyOVdC9ZM4TzC8jpsgBmyya-Nj8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMuC2MGIhjUpCdhK7ft-8LAxbFvWEuTtcbJ1KYRTwaeqAiEAknJifBq3aO2CGLQZMZwVBHFA7MMb2Dc2dnmCGXiIUlg%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224282/ei/ejthaInGEpeBvcAP8ebGgAY/ip/23.156.153.4/id/MV9mI0GChwo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOiOZ0pRVegA_UsUqquq1rpfhGjj-Ze5aso82oTsm7MeRb0P2BfWEr4HXq8jA708Ip84wAjhdxl/spc/l3OVKYlZf4B8muDljqpUTlv--NiyyRQX3JUnQdWBVDC-ArX5OuFFFyVKyZ8dwuNsK5A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFosIDAZeIZUSgr7GApO6S9udpJbQaCgCdWg6A1eEI74CIDPxF-L4jQeUSHN_Zi9duFT4Y1A3y7e2Jmjc5GHqn3Au/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/refs/heads/main/src/assets/img/TVBS.png",TVBS新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121137/ei/kahfaNHbM5TAvcAPnsyWqQ4/ip/23.156.153.4/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/hk/bui/AY1jyLMfzd52WfbqjEMG6JFi_BvL-RGLyctPJNRi3RTOpwmfjGDKP4_r_n33RXBKp5xH_WghfA3DrvGB/spc/l3OVKZnOa0UPr-ZsmHWZaRbYlqwHXCwE5TaqaLkp9mJpIDxKevzBsSw5VYNzTBH-gCA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOjRY_VZwJLGZAh2dozknKChoAHmN09L3xfvii1YOwB0AiEAkl28qLPYmVuvK6oVdk1Yr4xG_UOp76wyoomjims7tcE%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224290/ei/gjthaPH9DpSYvcAP4I2S0A4/ip/23.156.153.4/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/hk/bui/AY1jyLPPV_jADkRaLKds2PXtN12p3YMXERrilK1TybyC3F5iHe8plRNRlNzbpMhYq7TNNwSRiSWXHnDT/spc/l3OVKcfSzDtPu_Tpi66xtuQu0BidJS7_hLfpDaDZz14SQYOQItGiNrSCHvSglILcPak/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJrRoFq_UfJxp95sLOk2QatlmEiSHMfg0WKU2bk6MnYECIQCGA6NE0IDu43jHz2VF48dop-95ytQ6-0vnBIKsNpyzmg%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.jpg",台视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121141/ei/lahfaNGZFJeUvcAP8Ia3oA4/ip/23.156.153.4/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOOo1twJdP3lM1iC5QQv4wtBBk78I4Cr34v4cZPdZZx4ng6GjWeFby-DoJS3mVx1ilCurFI62QQ/spc/l3OVKRIMhVWBU1C3DFX4CYxdWcNNyWbr3SxdLvoxESA8px9uYmhQbQGbXA8dhX--tjA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgT-eSKdfB6_DDxT5euNWdXWshXXjyfoxVrFRfmuwwMbsCIDGPP3653eRCBA-QOvyR00u-iMkJWrBaHVX0y923Y4UA/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224298/ei/ijthaMPfFrjK2roP-Pvs0Ac/ip/23.156.153.4/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNV74se6QRS_KWr3YQir8jIpTIXtyQGu6vxpNOnXcu7GeNw7v262m0ROvIGYY1cLPZR0F1ahErz/spc/l3OVKU4qOtTwHPonS-QlC_GebWboXUNd_o_V_CrYeeBH6dbB_PB1G1Vn0qzjnRySf7Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcqOIhhNKWkXpLelDwea-8Rfg1u3TFBc1_CHQQUVMGCECIQDkorzEsogwWM7hzqycMKcBt4fBTpGkaqsKl7OrVqkH5A%3D%3D/file/index.m3u8$油管线路
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png",民视新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121144/ei/mKhfaN6BNJa8vcAPufPC4Ao/ip/23.156.153.4/id/ylYJSBUgaMA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPVAbHacg364xA6kL5TONOFdB0koYf-swe__Od1tM5_-hk7n9k9Tq_BnkGPffJRMxJUrOz3rDnA/spc/l3OVKQMLpbGmAVfIo7Y7LDSck3UeXl2Nh9XJ3zMNGIqS_DnwAYGfy8u4srgbeMa7O1s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALNDSv3yq1z2Dp6XwxoY-6Iw47BfxnwCicBUtn09YDXlAiEA5TeNuQPXtOQd4pnO6KQ2WVvlmFFvLD-tR2QTLW4PMx0%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224302/ei/jjthaLS7GJPBvcAPh-ucyA4/ip/23.156.153.4/id/ylYJSBUgaMA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOQAqnuTzv2TpmLcIluukmFZSZWf5akiEljNML4l6wTCsfpkzhRQwOiz_rC0LikBaEf2SbA-2gu/spc/l3OVKeh2GYKLiziCKz3pQyv-gRKYGo-8BYm-VEaKjLvE3VZ8WjL0Nv5-wWTcyxy0WU8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOyfvHV49tG-wek2H-3vlZ3RlC3XNikwT8zGJ3xIXRNYAiEA7rIxnr75FGJcGT80-JdD5I8Q3O2cjL7sZ2kATcG8qNc%3D/file/index.m3u8$油管线路
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.jpg",中视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751121148/ei/nKhfaN__GMmcvcAP1d_PwA4/ip/23.156.153.4/id/TCnaIE_SAtM.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPTF7KNU2OsV691Xj5H7VsTrPvtnbwYrItYkLBvuKZqxPam7P2u5VP9MlMvycyB35JVd5KHMsHx/spc/l3OVKaUwxASx4YROWXCqGT-h2rNauXkcuXLBTmXKeRctwo6hP_6c4_BRzOMhv6ky8Sc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMycMbhGDpQjlFfbDQ2P4AWzaI5EmLrWXVrQtUEt0C-mAiAmZwNzFHeTUPolh0gI4nItZ92Q_wY_nkq7P06x4mLVkw%3D%3D/file/index.m3u8$油管线路
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751224308/ei/lDthaODwO8GcvcAPo9ySiAs/ip/23.156.153.4/id/TCnaIE_SAtM.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO1Url51M1_34CK4Si8XsB5mhxOCkfSyUqUIjcmKQawM-AF40GDNapjIK8eFO3_YbKjSOdzMI6_/spc/l3OVKcd8ilA_Lu5UzF67FQij2iX7J1w_HOlDDYqW-hoUpfE_AqRID94oHH7V1i4kMHU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM3klbn_JXIhy0Ka9KrSqd5C8HNwo-NJeP4ghoWp_3k7AiBUrnzzjpNLXSXDRAF0TPzuo6dknKUjueBp4z5bhRxY9Q%3D%3D/file/index.m3u8$油管线路
 
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV1.jpg",CCTV1
@@ -83,116 +83,4 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV17.jpg",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 group-title="地方频道", 广东卫视
-http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
-
-
-#EXTINF:-1 group-title="收音广播",广州新闻
-http://live.xmcdn.com/live/256/64.m3u8
-#EXTINF:-1 group-title="收音广播",广州汽车音乐
-http://live.xmcdn.com/live/257/64.m3u8
-#EXTINF:-1 group-title="收音广播",广州交通电台
-http://ls.qingting.fm/live/4955.m3u8
-#EXTINF:-1 group-title="收音广播",梅州交通广播
-http://ls.qingting.fm/live/24195.m3u8
-#EXTINF:-1 group-title="收音广播",梅州新闻广播
-http://ls.qingting.fm/live/24173.m3u8
-#EXTINF:-1 group-title="收音广播",江苏新闻广播
-http://ls.qingting.fm/live/4944.m3u8
-#EXTINF:-1 group-title="收音广播",重庆新闻
-http://live.xmcdn.com/live/128/64.m3u8
-#EXTINF:-1 group-title="收音广播",厦门新闻
-http://ls.qingting.fm/live/1737.m3u8
-#EXTINF:-1 group-title="收音广播",四川新闻综合广播
-http://ls.qingting.fm/live/4906.m3u8
-#EXTINF:-1 group-title="收音广播",太原新闻广播
-http://ls.qingting.fm/live/23873.m3u8
-#EXTINF:-1 group-title="收音广播",山东新闻广播
-http://ls.qingting.fm/live/60180.m3u8
-#EXTINF:-1 group-title="收音广播",岳阳新闻综合广播
-http://ls.qingting.fm/live/88933.m3u8
-#EXTINF:-1 group-title="收音广播",广西新闻
-http://ls.qingting.fm/live/1753.m3u8
-#EXTINF:-1 group-title="收音广播",惠州新闻综合广播
-http://ls.qingting.fm/live/5016.m3u8
-#EXTINF:-1 group-title="收音广播",新疆新闻广播
-http://ls.qingting.fm/live/1902.m3u8
-#EXTINF:-1 group-title="收音广播",无锡新闻广播
-http://ls.qingting.fm/live/2777.m3u8
-#EXTINF:-1 group-title="收音广播",沈阳新闻广播
-http://ls.qingting.fm/live/23891.m3u8
-#EXTINF:-1 group-title="收音广播",河北新闻广播
-http://ls.qingting.fm/live/1644.m3u8
-#EXTINF:-1 group-title="收音广播",海南新闻广播
-http://ls.qingting.fm/live/1861.m3u8
-#EXTINF:-1 group-title="收音广播",温州新闻广播
-http://ls.qingting.fm/live/23861.m3u8
-#EXTINF:-1 group-title="收音广播",长沙新闻广播
-http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 group-title="收音广播",青岛新闻广播
-http://ls.qingting.fm/live/1673.m3u8
-#EXTINF:-1 group-title="收音广播",龙广新闻广播
-http://ls.qingting.fm/live/4974.m3u8
-
-
-
-#EXTINF:-1 group-title="电影轮播",人在囧途
-http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
-
-
-
-#EXTINF:-1 group-title="春晚现场",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2023
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2020
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2019
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2014
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2009
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2008
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2007
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2006
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2005
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2004
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2002
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2001
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚2000
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1999
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1998
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1997
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1995
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1994
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1993
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1992
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1991
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1988
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1987
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1986
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚现场",春晚1985
-http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="春晚现场",春晚1984
-http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 
