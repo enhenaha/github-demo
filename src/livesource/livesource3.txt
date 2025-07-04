@@ -1,9 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
-https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751614049/ei/AS5naPiJO9Tf1d8PjfrVyQQ/ip/23.156.153.4/id/BLaQVW5oUGU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMt_wHBnz7bNVN--3W8_ZQeic3xgsqw-4UR7Xj-j6Q7KHcbR3ZkGjSrLyGTvvNd-HI8WKUd8jJo/spc/l3OVKYdx_oceXsNZ6GVOm3emmyFPUsbCuRNYixjkDYFQLt8Y1r-phhBP3-siv2lb8qjHwMHyA9Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKgQVQ94L9z6FPduL-VQpRTJFS2ygiyZGsHdv3fT0qG4CIQDgSJSjHRtgNV2MXdz60GvO1ti7o6k_ynVuj61w_vzYTQ%3D%3D/file/index.m3u8$油管线路
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.jpg",凤凰中文
