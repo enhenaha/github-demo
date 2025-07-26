@@ -58,7 +58,7 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225734/index.m3u8?IASHttpSessionI
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV10.jpg",CCTV10
 http://39.134.64.87:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV11.jpg",CCTV11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+http://106.53.99.30/tv/20250717.php?id=0012
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV12.jpg",CCTV12
 http://39.134.64.87:6610/PLTV/88888888/224/3221225731/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV13.jpg",CCTV13
