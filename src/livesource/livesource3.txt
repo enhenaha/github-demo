@@ -2,7 +2,6 @@
 
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",无线新闻
 http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.jpg",凤凰卫视资讯台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
