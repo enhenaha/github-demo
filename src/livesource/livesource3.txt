@@ -81,3 +81,9 @@ http://iptv.jxpan.vip:18888/aio/huya/11352970
 http://iptv.jxpan.vip:18888/aio/huya/11336572
 #EXTINF:-1 group-title="其他" tvg-logo="",斗罗大陆
 http://iptv.jxpan.vip:18888/aio/huya/11352906
+#EXTINF:-1 group-title="其他" tvg-logo="",动画片2
+http://iptv.jxpan.vip:18888/aio/huya/11352882
+#EXTINF:-1 group-title="其他" tvg-logo="",家有儿女
+http://iptv.jxpan.vip:18888/aio/huya/11352872
+#EXTINF:-1 group-title="其他" tvg-logo="",成龙历险记
+http://iptv.jxpan.vip:18888/aio/huya/11352946
