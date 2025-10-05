@@ -37,36 +37,62 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759663644/ei/v
 
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV1.jpg",CCTV1
-http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000488.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV2.jpg",CCTV2
-http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000061.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV3.jpg",CCTV3
-http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000062.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV4.jpg",CCTV4
-http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000063.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV5.jpg",CCTV5
-http://39.134.64.87:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000064.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV5%2B.jpg",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV6.jpg",CCTV6
-http://39.134.64.87:6610/PLTV/88888888/224/3221226010/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000065.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV7.jpg",CCTV7
-http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000127.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV8.jpg",CCTV8
-http://39.134.64.87:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000066.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV9.jpg",CCTV9
 http://39.134.64.87:6610/PLTV/88888888/224/3221225734/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV10.jpg",CCTV10
-http://39.134.64.87:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000129.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV11.jpg",CCTV11
-http://106.53.99.30/tv/20250717.php?id=0012
+http://120.76.248.139/live/bfgd/4200000130.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV12.jpg",CCTV12
-http://39.134.64.87:6610/PLTV/88888888/224/3221225731/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000131.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV13.jpg",CCTV13
-http://39.134.64.87:6610/PLTV/88888888/224/3221226011/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000067.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV14.jpg",CCTV14
-http://39.134.64.87:6610/PLTV/88888888/224/3221226591/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000132.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV15.jpg",CCTV15
-http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionId=
+http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV17.jpg",CCTV17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
+
+
+#EXTINF:-1 group-title="其他" tvg-logo="",小猪佩奇
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759655470/ei/zuHhaNKtOt6VvcAP28KO6QY/ip/85.237.207.179/id/dn67BH_cHQE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567915/txs/51567915%2C51567916%2C51567919/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/ATw7iSWivxtCGRX60IEjjyiIV8zQFcJPd0L8-vT0lDxJzh3vkdh2cPvkEhUdKkz1rJODGMXasA/spc/hcYD5c1wrH41Tsmq0d-8baO7_zNVsu1BEP8u9KZlHKCPdjWOcCPC/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKvsxL7wDSnAZNxXN72hG-V0UpVLX2jUIv1RiRHUflmkCIFp4w2EuziqYgf7tg4K-IHP1Pla7nm1nyLXyr-w55VBg/file/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="",宝宝巴士
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759655613/ei/XeLhaN7MNKGbvcAP6-nkgQc/ip/2401%3Ab60%3A13%3Aea95%3Ab32a%3A57f2%3Ae85a%3Ab763/id/yP7Ve9Lp5Dc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567915/txs/51567915%2C51567916%2C51567919/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/ATw7iSWZjfxIXOXqhQdd8wLfQ1glQitJ1me6zzBwvZK3DwfK1dN2LaCby3T02F97u3sF2Rj-CA/spc/hcYD5RDcX81gByaDmG2wT3n0wPsV_zZuYEvtkAW1IU9BH7oeG6aV/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKMv7SkFvwa1pbxHvoF-bnICq9lceCeK0By2uS6rGq_aAiEA2RNiHOyQegnZHQSqxIhdChMH4OT-TB-lZ1J4IaRP9L8%3D/file/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="",海绵宝宝
+http://iptv.jxpan.vip:18888/aio/huya/11352919
+#EXTINF:-1 group-title="其他" tvg-logo="",陈翔六点半
+http://iptv.jxpan.vip:18888/aio/huya/11274154
+#EXTINF:-1 group-title="其他" tvg-logo="",蜡笔小新
+http://iptv.jxpan.vip:18888/aio/huya/11352970
+#EXTINF:-1 group-title="其他" tvg-logo="",动画片1
+http://iptv.jxpan.vip:18888/aio/huya/11336572
+#EXTINF:-1 group-title="其他" tvg-logo="",斗罗大陆
+http://iptv.jxpan.vip:18888/aio/huya/11352906
+#EXTINF:-1 group-title="其他" tvg-logo="",动画片2
+http://iptv.jxpan.vip:18888/aio/huya/11352882
+#EXTINF:-1 group-title="其他" tvg-logo="",家有儿女
+http://iptv.jxpan.vip:18888/aio/huya/11352872
+#EXTINF:-1 group-title="其他" tvg-logo="",成龙历险记
+http://iptv.jxpan.vip:18888/aio/huya/11352946
+#EXTINF:-1 group-title="其他" tvg-logo="",蜘蛛侠
+http://iptv.jxpan.vip:18888/aio/huya/11352950
+#EXTINF:-1 group-title="其他" tvg-logo="",动画片3
+http://iptv.jxpan.vip:18888/aio/huya/30080215
