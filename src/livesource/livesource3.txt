@@ -87,3 +87,5 @@ http://iptv.jxpan.vip:18888/aio/huya/11352882
 http://iptv.jxpan.vip:18888/aio/huya/11352872
 #EXTINF:-1 group-title="其他" tvg-logo="",成龙历险记
 http://iptv.jxpan.vip:18888/aio/huya/11352946
+#EXTINF:-1 group-title="其他" tvg-logo="",蜘蛛侠
+http://iptv.jxpan.vip:18888/aio/huya/11352950
