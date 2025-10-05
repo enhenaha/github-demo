@@ -71,6 +71,8 @@ http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV17.jpg",CCTV17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 
+#EXTINF:-1 group-title="其他" tvg-logo="",小猪佩奇
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759655470/ei/zuHhaNKtOt6VvcAP28KO6QY/ip/85.237.207.179/id/dn67BH_cHQE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567915/txs/51567915%2C51567916%2C51567919/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/ATw7iSWivxtCGRX60IEjjyiIV8zQFcJPd0L8-vT0lDxJzh3vkdh2cPvkEhUdKkz1rJODGMXasA/spc/hcYD5c1wrH41Tsmq0d-8baO7_zNVsu1BEP8u9KZlHKCPdjWOcCPC/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKvsxL7wDSnAZNxXN72hG-V0UpVLX2jUIv1RiRHUflmkCIFp4w2EuziqYgf7tg4K-IHP1Pla7nm1nyLXyr-w55VBg/file/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="",海绵宝宝
 http://iptv.jxpan.vip:18888/aio/huya/11352919
 #EXTINF:-1 group-title="其他" tvg-logo="",陈翔六点半
