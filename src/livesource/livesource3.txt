@@ -71,9 +71,11 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionI
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/enhenaha/github-demo/main/src/assets/img/CCTV17.jpg",CCTV17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 
-#EXTINF:-1 group-title="新" tvg-logo="",海绵宝宝
+#EXTINF:-1 group-title="其他" tvg-logo="",海绵宝宝
 http://iptv.jxpan.vip:18888/aio/huya/11352919
-#EXTINF:-1 group-title="新" tvg-logo="",陈翔六点半
+#EXTINF:-1 group-title="其他" tvg-logo="",陈翔六点半
 http://iptv.jxpan.vip:18888/aio/huya/11274154
-#EXTINF:-1 group-title="新" tvg-logo="",蜡笔小新
+#EXTINF:-1 group-title="其他" tvg-logo="",蜡笔小新
 http://iptv.jxpan.vip:18888/aio/huya/11352970
+#EXTINF:-1 group-title="其他" tvg-logo="",动画片1
+http://iptv.jxpan.vip:18888/aio/huya/11336572
